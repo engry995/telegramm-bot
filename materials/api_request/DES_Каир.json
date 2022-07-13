@@ -1,0 +1,210 @@
+{
+    "term": "Каир",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "67904a3aea264b248afdf27e0e5af06c",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "767",
+                    "destinationId": "1634358",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.044437,
+                    "longitude": 31.235711,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Каир"
+                },
+                {
+                    "geoId": "6069794",
+                    "destinationId": "1661131",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.05599991882065,
+                    "longitude": 31.24025898329646,
+                    "searchDetail": null,
+                    "caption": "Центр <span class='highlighted'>Каир</span>а, Каир, Эль-Кахира, Египет",
+                    "name": "Центр Каира"
+                },
+                {
+                    "geoId": "6069791",
+                    "destinationId": "1718697",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.062609284270923,
+                    "longitude": 31.22050976480208,
+                    "searchDetail": null,
+                    "caption": "Замалек, <span class='highlighted'>Каир</span>, Египет",
+                    "name": "Замалек"
+                },
+                {
+                    "geoId": "6339926",
+                    "destinationId": "1808045",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.007404,
+                    "longitude": 31.491315,
+                    "searchDetail": null,
+                    "caption": "Новый <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Новый Каир"
+                },
+                {
+                    "geoId": "553248635974577931",
+                    "destinationId": "11390374",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.10744332352108,
+                    "longitude": 31.40137214286267,
+                    "searchDetail": null,
+                    "caption": "Шератон-Аль-Матар, <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Шератон-Аль-Матар"
+                },
+                {
+                    "geoId": "6145380",
+                    "destinationId": "1699211",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.04815513474225,
+                    "longitude": 31.261463481998664,
+                    "searchDetail": null,
+                    "caption": "Исламская часть <span class='highlighted'>Каир</span>а, Каир, Эль-Кахира, Египет",
+                    "name": "Исламская часть Каира"
+                },
+                {
+                    "geoId": "6069792",
+                    "destinationId": "1661128",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.01515955363098,
+                    "longitude": 31.233608906470383,
+                    "searchDetail": null,
+                    "caption": "Старый <span class='highlighted'>Каир</span>, Каир, Эль-Кахира, Египет",
+                    "name": "Старый Каир"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "13579391",
+                    "destinationId": "574262",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.109025,
+                    "longitude": 31.321657,
+                    "searchDetail": null,
+                    "caption": "Glorious Hotel, <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Glorious Hotel"
+                },
+                {
+                    "geoId": "885378",
+                    "destinationId": "203881",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.072,
+                    "longitude": 31.433648,
+                    "searchDetail": null,
+                    "caption": "JW Marriott Hotel Cairo, Новый <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "JW Marriott Hotel Cairo"
+                },
+                {
+                    "geoId": "17233",
+                    "destinationId": "109135",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.043076,
+                    "longitude": 31.231832,
+                    "searchDetail": null,
+                    "caption": "Intercontinental Cairo Semiramis, an IHG Hotel, <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Intercontinental Cairo Semiramis, an IHG Hotel"
+                },
+                {
+                    "geoId": "10002637",
+                    "destinationId": "492202",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.046345,
+                    "longitude": 31.2377,
+                    "searchDetail": null,
+                    "caption": "Lotus Hotel, <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Lotus Hotel"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6073079",
+                    "destinationId": "1656454",
+                    "landmarkCityDestinationId": "1638588",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.027364,
+                    "longitude": 31.209344,
+                    "searchDetail": null,
+                    "caption": "Университет <span class='highlighted'>Каир</span>а, Гиза, Эль-Гиза, Египет",
+                    "name": "Университет Каира"
+                },
+                {
+                    "geoId": "6073085",
+                    "destinationId": "1656457",
+                    "landmarkCityDestinationId": "1634358",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.047189,
+                    "longitude": 31.233637,
+                    "searchDetail": null,
+                    "caption": "Египетский музей, <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Египетский музей"
+                },
+                {
+                    "geoId": "6073093",
+                    "destinationId": "1656461",
+                    "landmarkCityDestinationId": "1634358",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.044399,
+                    "longitude": 31.235631,
+                    "searchDetail": null,
+                    "caption": "Площадь Тахрир, <span class='highlighted'>Каир</span>, Эль-Кахира, Египет",
+                    "name": "Площадь Тахрир"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "4800835",
+                    "destinationId": "1661140",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 30.112029,
+                    "longitude": 31.399564,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Каир</span>, Египет (CAI-Каир, международный)",
+                    "name": "Каир (CAI-Каир, международный)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

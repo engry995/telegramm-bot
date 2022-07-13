@@ -1,0 +1,210 @@
+{
+    "term": "Париж",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "3b15ad1832d84f30b39298d9b9472a5c",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "2734",
+                    "destinationId": "504261",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.86272,
+                    "longitude": 2.34375,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Париж</span>, Франция",
+                    "name": "Париж"
+                },
+                {
+                    "geoId": "6200422",
+                    "destinationId": "1730997",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.86238260963013,
+                    "longitude": 2.3390738373060285,
+                    "searchDetail": null,
+                    "caption": "Центр <span class='highlighted'>Париж</span>а, Париж, Франция",
+                    "name": "Центр Парижа"
+                },
+                {
+                    "geoId": "6187879",
+                    "destinationId": "1731375",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.877173900988815,
+                    "longitude": 2.337418178622501,
+                    "searchDetail": null,
+                    "caption": "9-й округ, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "9-й округ"
+                },
+                {
+                    "geoId": "6187856",
+                    "destinationId": "1731364",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.86258526876845,
+                    "longitude": 2.3365234330010947,
+                    "searchDetail": null,
+                    "caption": "1-й округ, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "1-й округ"
+                },
+                {
+                    "geoId": "178676",
+                    "destinationId": "1707200",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.886406544304144,
+                    "longitude": 2.3387477088019364,
+                    "searchDetail": null,
+                    "caption": "Монмартр, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Монмартр"
+                },
+                {
+                    "geoId": "178675",
+                    "destinationId": "1639764",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.84713359126475,
+                    "longitude": 2.3467552926216464,
+                    "searchDetail": null,
+                    "caption": "Латинский квартал, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Латинский квартал"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "2905",
+                    "destinationId": "282454",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.88211,
+                    "longitude": 2.34102,
+                    "searchDetail": null,
+                    "caption": "Hôtel Rochechouart, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Hôtel Rochechouart"
+                },
+                {
+                    "geoId": "12475466",
+                    "destinationId": "571694",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.9,
+                    "longitude": 2.33,
+                    "searchDetail": null,
+                    "caption": "ibis budget Paris Porte de Montmartre, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "ibis budget Paris Porte de Montmartre"
+                },
+                {
+                    "geoId": "24667",
+                    "destinationId": "172482",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.84185,
+                    "longitude": 2.330664,
+                    "searchDetail": null,
+                    "caption": "Villa Luxembourg, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Villa Luxembourg"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "502232",
+                    "destinationId": "1632921",
+                    "landmarkCityDestinationId": "504261",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.871433,
+                    "longitude": 2.331955,
+                    "searchDetail": null,
+                    "caption": "Опера Гарнье, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Опера Гарнье"
+                },
+                {
+                    "geoId": "502251",
+                    "destinationId": "520053",
+                    "landmarkCityDestinationId": "504261",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.85826194156021,
+                    "longitude": 2.294495518418529,
+                    "searchDetail": null,
+                    "caption": "Эйфелева башня, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Эйфелева башня"
+                },
+                {
+                    "geoId": "502223",
+                    "destinationId": "520052",
+                    "landmarkCityDestinationId": "504261",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.86083954940375,
+                    "longitude": 2.3363303667963646,
+                    "searchDetail": null,
+                    "caption": "Лувр, <span class='highlighted'>Париж</span>, Франция",
+                    "name": "Лувр"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "4670531",
+                    "destinationId": "485293",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 49.004061,
+                    "longitude": 2.571006,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Париж</span>, Франция (CDG-Руасси-Шарль-де-Голль)",
+                    "name": "Париж (CDG-Руасси-Шарль-де-Голль)"
+                },
+                {
+                    "geoId": "6026766",
+                    "destinationId": "1649113",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 49.46034,
+                    "longitude": 2.10631,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Париж</span>, Франция (BVA-Бовэ)",
+                    "name": "Париж (BVA-Бовэ)"
+                },
+                {
+                    "geoId": "5853775",
+                    "destinationId": "485292",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.728526,
+                    "longitude": 2.368405,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Париж</span>, Франция (ORY-Орли)",
+                    "name": "Париж (ORY-Орли)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

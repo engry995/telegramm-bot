@@ -1,0 +1,209 @@
+{
+    "term": "Кашмир",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "bd1659a46621459482aa96f8afe1fde1",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "553248635974587310",
+                    "destinationId": "12520355",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 28.666471,
+                    "longitude": 77.233292,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Кашмир</span>-Гейт, Нью-Дели, Государственный столичный округ Дели, Индия",
+                    "name": "Кашмир-Гейт"
+                },
+                {
+                    "geoId": "553248634382368113",
+                    "destinationId": "10916895",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -27.293053,
+                    "longitude": 152.903565,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Кашмир</span>, Брисбен, Квинсленд, Австралия",
+                    "name": "Кашмир"
+                },
+                {
+                    "geoId": "3000655766",
+                    "destinationId": "11108378",
+                    "landmarkCityDestinationId": null,
+                    "type": "REGION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 33.994169,
+                    "longitude": 76.267071,
+                    "searchDetail": null,
+                    "caption": "Лыжный ареал в Джамму и <span class='highlighted'>Кашмир</span>е, Индия",
+                    "name": "Лыжный ареал в Джамму и Кашмире"
+                },
+                {
+                    "geoId": "87172",
+                    "destinationId": "1466760",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 47.522339,
+                    "longitude": -120.469798,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Кашмир</span>, Вашингтон, США",
+                    "name": "Кашмир"
+                },
+                {
+                    "geoId": "180245",
+                    "destinationId": "1638886",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -43.58865074464988,
+                    "longitude": 172.6389217520923,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Кашмир</span>, Крайстчерч, Кентербери, Новая Зеландия",
+                    "name": "Кашмир"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "19393341",
+                    "destinationId": "621586912",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 34.067831,
+                    "longitude": 74.844259,
+                    "searchDetail": null,
+                    "caption": "Four Points By Sheraton Srinagar, Шринагар, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "Four Points By Sheraton Srinagar"
+                },
+                {
+                    "geoId": "37919365",
+                    "destinationId": "1214419680",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 34.084325,
+                    "longitude": 74.825013,
+                    "searchDetail": null,
+                    "caption": "Hotel New Mamta, Шринагар, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "Hotel New Mamta"
+                },
+                {
+                    "geoId": "23101275",
+                    "destinationId": "740240800",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 32.990537,
+                    "longitude": 74.928695,
+                    "searchDetail": null,
+                    "caption": "Hotel Asia Shripati By MTMC ROOMS, Катра, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "Hotel Asia Shripati By MTMC ROOMS"
+                },
+                {
+                    "geoId": "23536701",
+                    "destinationId": "754174432",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 32.989203,
+                    "longitude": 74.92622,
+                    "searchDetail": null,
+                    "caption": "Best Western Swing High Katra, Катра, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "Best Western Swing High Katra"
+                },
+                {
+                    "geoId": "37730523",
+                    "destinationId": "1208376736",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 32.690258,
+                    "longitude": 74.924473,
+                    "searchDetail": null,
+                    "caption": "OYO 29173 The Grand, Jammu, Джамму, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "OYO 29173 The Grand, Jammu"
+                },
+                {
+                    "geoId": "36875449",
+                    "destinationId": "1181014368",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 32.729476,
+                    "longitude": 74.867527,
+                    "searchDetail": null,
+                    "caption": "OYO 28440 Mk Hotel And Restaurant, Джамму, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "OYO 28440 Mk Hotel And Restaurant"
+                },
+                {
+                    "geoId": "34993643",
+                    "destinationId": "1120796576",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 32.9883,
+                    "longitude": 74.9259,
+                    "searchDetail": null,
+                    "caption": "OYO 5254 Hotel Gordon House, Катра, Джамму и <span class='highlighted'>Кашмир</span>, Индия",
+                    "name": "OYO 5254 Hotel Gordon House"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "553248621592241100",
+                    "destinationId": "10456312",
+                    "landmarkCityDestinationId": "12467584",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 34.373069,
+                    "longitude": 73.469696,
+                    "searchDetail": null,
+                    "caption": "Университет Азад-Джамму и <span class='highlighted'>Кашмир</span>а, Музаффарабад, Azad Jammu and Kashmir, Пакистан",
+                    "name": "Университет Азад-Джамму и Кашмира"
+                },
+                {
+                    "geoId": "553248621554113766",
+                    "destinationId": "10459454",
+                    "landmarkCityDestinationId": "1466760",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 47.54188423557281,
+                    "longitude": -120.5203715250983,
+                    "searchDetail": null,
+                    "caption": "Парк штата Peshastin Pinnacles, <span class='highlighted'>Кашмир</span>, Вашингтон, США",
+                    "name": "Парк штата Peshastin Pinnacles"
+                },
+                {
+                    "geoId": "553248621532650950",
+                    "destinationId": "10526441",
+                    "landmarkCityDestinationId": "1466760",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 47.520384,
+                    "longitude": -120.45618,
+                    "searchDetail": null,
+                    "caption": "Музей быта округа Челан, <span class='highlighted'>Кашмир</span>, Вашингтон, США",
+                    "name": "Музей быта округа Челан"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": []
+        }
+    ],
+    "geocodeFallback": false
+}
