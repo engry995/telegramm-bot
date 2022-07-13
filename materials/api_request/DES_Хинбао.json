@@ -1,0 +1,209 @@
+{
+    "term": "Хинбао",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "86d39b0951504547bcc7961ca358cfaf",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "6358409",
+                    "destinationId": "1912452",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 23.127577717040545,
+                    "longitude": -81.83827376165405,
+                    "searchDetail": null,
+                    "caption": "Хибакоа, Провинция Маябеке, Куба",
+                    "name": "Хибакоа"
+                },
+                {
+                    "geoId": "180429",
+                    "destinationId": "169542",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 53.395889,
+                    "longitude": -117.602234,
+                    "searchDetail": null,
+                    "caption": "Хинтон, Альберта, Канада",
+                    "name": "Хинтон"
+                },
+                {
+                    "geoId": "3000757175",
+                    "destinationId": "10598101",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.983997,
+                    "longitude": 139.346392,
+                    "searchDetail": null,
+                    "caption": "Одзехиноэмата-Онсен, Хиноэмата, Fukushima (префектура), Япония",
+                    "name": "Одзехиноэмата-Онсен"
+                },
+                {
+                    "geoId": "553248635975868180",
+                    "destinationId": "12470927",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 20.2808,
+                    "longitude": -74.8022,
+                    "searchDetail": null,
+                    "caption": "Сальто-эль-Хибаро, Сан-Антонио-дель-Сур, Провинция Гуантанамо, Куба",
+                    "name": "Сальто-эль-Хибаро"
+                },
+                {
+                    "geoId": "6245269",
+                    "destinationId": "1759583",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 60.40520832844837,
+                    "longitude": 25.497908567093237,
+                    "searchDetail": null,
+                    "caption": "Хинтаара, Порвоо, Уусимаа, Финляндия",
+                    "name": "Хинтаара"
+                },
+                {
+                    "geoId": "553248635213165465",
+                    "destinationId": "11112125",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 50.34732194604175,
+                    "longitude": 11.151097255051255,
+                    "searchDetail": null,
+                    "caption": "Хенбах, Зоннеберг, Тюрингия (земля), Германия",
+                    "name": "Хенбах"
+                },
+                {
+                    "geoId": "553248634649706346",
+                    "destinationId": "11032324",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.912901295334095,
+                    "longitude": 11.76200118614558,
+                    "searchDetail": null,
+                    "caption": "Хинхаймер-Форст, Бавария (земля), Германия",
+                    "name": "Хинхаймер-Форст"
+                },
+                {
+                    "geoId": "553248635939577648",
+                    "destinationId": "11391474",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 20.483279328416167,
+                    "longitude": 78.74915223682456,
+                    "searchDetail": null,
+                    "caption": "Хингангхат, Махараштра, Индия",
+                    "name": "Хингангхат"
+                },
+                {
+                    "geoId": "553248635094266771",
+                    "destinationId": "11050131",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 53.11751152959599,
+                    "longitude": 5.636963163245761,
+                    "searchDetail": null,
+                    "caption": "Хиннард, Фрисландия (провинция), Нидерланды",
+                    "name": "Хиннард"
+                },
+                {
+                    "geoId": "553248634649703965",
+                    "destinationId": "10967078",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 49.53751512757603,
+                    "longitude": 11.811561998881016,
+                    "searchDetail": null,
+                    "caption": "Ханбах, Бавария (земля), Германия",
+                    "name": "Ханбах"
+                },
+                {
+                    "geoId": "3000688023",
+                    "destinationId": "10565823",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -31.41834244347418,
+                    "longitude": 152.85859911031727,
+                    "searchDetail": null,
+                    "caption": "Хиббард, Фёрнбэнк-Крик, Новый Южный Уэльс, Австралия",
+                    "name": "Хиббард"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": []
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6096926",
+                    "destinationId": "10481629",
+                    "landmarkCityDestinationId": "1912452",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 23.149566,
+                    "longitude": -81.821169,
+                    "searchDetail": null,
+                    "caption": "Пляж Джибакоа, Хибакоа, Провинция Маябеке, Куба",
+                    "name": "Пляж Джибакоа"
+                },
+                {
+                    "geoId": "553248634305007352",
+                    "destinationId": "10900996",
+                    "landmarkCityDestinationId": "12493652",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 9.202395,
+                    "longitude": 124.666934,
+                    "searchDetail": null,
+                    "caption": "Гора Хибок-Хибок, Катарман, Северный Минданао, Филиппины",
+                    "name": "Гора Хибок-Хибок"
+                },
+                {
+                    "geoId": "553248635997897129",
+                    "destinationId": "12686740",
+                    "landmarkCityDestinationId": "338017",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 53.49593320279191,
+                    "longitude": 12.807830934562116,
+                    "searchDetail": null,
+                    "caption": "Озеро Хинбергзе, Каргов, Мекленбург - Западная Померания (земля), Германия",
+                    "name": "Озеро Хинбергзе"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "553248634351009181",
+                    "destinationId": "10907592",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 17.646352,
+                    "longitude": 95.45197,
+                    "searchDetail": null,
+                    "caption": "Хинтада, Мьянма (HEB)",
+                    "name": "Хинтада (HEB)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

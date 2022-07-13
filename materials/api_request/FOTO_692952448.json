@@ -1,0 +1,1555 @@
+{
+    "hotelId": 692952448,
+    "hotelImages": [
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/e4812e8a_{size}.jpg",
+            "imageId": 43527713,
+            "mediaGUID": "e4812e8a-b5f8-4342-9a97-7f6fa9cfa6ce",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 17,
+                    "suffix": "w"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "herobandit.v20201116-contextual-heroaesthetics.v20200130-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/e2f61203_{size}.jpg",
+            "imageId": 322192797,
+            "mediaGUID": "e2f61203-8365-417f-ba03-45d06fdcd6af",
+            "sizes": [
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/d8e9e8d8_{size}.jpg",
+            "imageId": 316785230,
+            "mediaGUID": "d8e9e8d8-5b1f-4e1c-9602-1cf60d12ae49",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fc819574_{size}.jpg",
+            "imageId": 335949940,
+            "mediaGUID": "fc819574-31a0-4e09-9c5e-bf0089cdda2d",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/af3a878d_{size}.jpg",
+            "imageId": 42661991,
+            "mediaGUID": "af3a878d-8c3c-4049-a053-1fb9245e0fee",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/2f9c2c6b_{size}.jpg",
+            "imageId": 225632870,
+            "mediaGUID": "2f9c2c6b-b0e2-4e34-8c5a-055ff20262d0",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/9f5ab3d9_{size}.jpg",
+            "imageId": 42748700,
+            "mediaGUID": "9f5ab3d9-392e-4eae-826e-d62bcc193e92",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/668e23aa_{size}.jpg",
+            "imageId": 255200412,
+            "mediaGUID": "668e23aa-26a6-4b6e-9b57-5f9513d04219",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fef29444_{size}.jpg",
+            "imageId": 43527704,
+            "mediaGUID": "fef29444-515e-4ba4-b8bc-2bd5659c972d",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/f21f9dca_{size}.jpg",
+            "imageId": 42770259,
+            "mediaGUID": "f21f9dca-c5c6-4c9c-8f99-ac0b5491db76",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/3dc04fcf_{size}.jpg",
+            "imageId": 42682773,
+            "mediaGUID": "3dc04fcf-b752-4df6-bbad-a0cde270b298",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/ffd19d78_{size}.jpg",
+            "imageId": 43527715,
+            "mediaGUID": "ffd19d78-a1a4-472d-964a-e24e3f7ed061",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 17,
+                    "suffix": "w"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "20220425",
+                "namespace": "DataScience",
+                "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/0866c799_{size}.jpg",
+            "imageId": 204521958,
+            "mediaGUID": "0866c799-7269-4ab8-bbaf-8795d4a69242",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/3895b4ba_{size}.jpg",
+            "imageId": 230462535,
+            "mediaGUID": "3895b4ba-30dd-47f0-a1be-85f98d89cc9a",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/44eb9fbb_{size}.jpg",
+            "imageId": 237098483,
+            "mediaGUID": "44eb9fbb-77f2-44ef-8c33-d80bd53c5bea",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/78b52a00_{size}.jpg",
+            "imageId": 264976593,
+            "mediaGUID": "78b52a00-a55d-450a-9d69-a55b5ba20da7",
+            "sizes": [
+                {
+                    "type": 15,
+                    "suffix": "z"
+                },
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        },
+        {
+            "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fcc0ae99_{size}.jpg",
+            "imageId": 336082325,
+            "mediaGUID": "fcc0ae99-e26a-4148-8628-9da6365c9d18",
+            "sizes": [
+                {
+                    "type": 14,
+                    "suffix": "y"
+                },
+                {
+                    "type": 3,
+                    "suffix": "b"
+                },
+                {
+                    "type": 11,
+                    "suffix": "n"
+                },
+                {
+                    "type": 13,
+                    "suffix": "d"
+                },
+                {
+                    "type": 16,
+                    "suffix": "e"
+                },
+                {
+                    "type": 12,
+                    "suffix": "g"
+                },
+                {
+                    "type": 9,
+                    "suffix": "l"
+                },
+                {
+                    "type": 2,
+                    "suffix": "s"
+                },
+                {
+                    "type": 1,
+                    "suffix": "t"
+                }
+            ],
+            "trackingDetails": {
+                "version": "not_applicable",
+                "namespace": "not_applicable",
+                "algorithmName": "default_image_selection"
+            }
+        }
+    ],
+    "roomImages": [
+        {
+            "roomId": 202360303,
+            "images": [
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/f21f9dca_{size}.jpg",
+                    "imageId": 42770259,
+                    "mediaGUID": "f21f9dca-c5c6-4c9c-8f99-ac0b5491db76",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/3895b4ba_{size}.jpg",
+                    "imageId": 230462535,
+                    "mediaGUID": "3895b4ba-30dd-47f0-a1be-85f98d89cc9a",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fcc0ae99_{size}.jpg",
+                    "imageId": 336082325,
+                    "mediaGUID": "fcc0ae99-e26a-4148-8628-9da6365c9d18",
+                    "sizes": [
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/e2f61203_{size}.jpg",
+                    "imageId": 322192797,
+                    "mediaGUID": "e2f61203-8365-417f-ba03-45d06fdcd6af",
+                    "sizes": [
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "roomId": 202453345,
+            "images": [
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fef29444_{size}.jpg",
+                    "imageId": 43527704,
+                    "mediaGUID": "fef29444-515e-4ba4-b8bc-2bd5659c972d",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/e2f61203_{size}.jpg",
+                    "imageId": 322192797,
+                    "mediaGUID": "e2f61203-8365-417f-ba03-45d06fdcd6af",
+                    "sizes": [
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "roomId": 202453333,
+            "images": [
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/f21f9dca_{size}.jpg",
+                    "imageId": 42770259,
+                    "mediaGUID": "f21f9dca-c5c6-4c9c-8f99-ac0b5491db76",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/3895b4ba_{size}.jpg",
+                    "imageId": 230462535,
+                    "mediaGUID": "3895b4ba-30dd-47f0-a1be-85f98d89cc9a",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fcc0ae99_{size}.jpg",
+                    "imageId": 336082325,
+                    "mediaGUID": "fcc0ae99-e26a-4148-8628-9da6365c9d18",
+                    "sizes": [
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/e2f61203_{size}.jpg",
+                    "imageId": 322192797,
+                    "mediaGUID": "e2f61203-8365-417f-ba03-45d06fdcd6af",
+                    "sizes": [
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "roomId": 202453353,
+            "images": [
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/3dc04fcf_{size}.jpg",
+                    "imageId": 42682773,
+                    "mediaGUID": "3dc04fcf-b752-4df6-bbad-a0cde270b298",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/44eb9fbb_{size}.jpg",
+                    "imageId": 237098483,
+                    "mediaGUID": "44eb9fbb-77f2-44ef-8c33-d80bd53c5bea",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/78b52a00_{size}.jpg",
+                    "imageId": 264976593,
+                    "mediaGUID": "78b52a00-a55d-450a-9d69-a55b5ba20da7",
+                    "sizes": [
+                        {
+                            "type": 15,
+                            "suffix": "z"
+                        },
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                },
+                {
+                    "baseUrl": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/e2f61203_{size}.jpg",
+                    "imageId": 322192797,
+                    "mediaGUID": "e2f61203-8365-417f-ba03-45d06fdcd6af",
+                    "sizes": [
+                        {
+                            "type": 14,
+                            "suffix": "y"
+                        },
+                        {
+                            "type": 3,
+                            "suffix": "b"
+                        },
+                        {
+                            "type": 11,
+                            "suffix": "n"
+                        },
+                        {
+                            "type": 13,
+                            "suffix": "d"
+                        },
+                        {
+                            "type": 16,
+                            "suffix": "e"
+                        },
+                        {
+                            "type": 12,
+                            "suffix": "g"
+                        },
+                        {
+                            "type": 9,
+                            "suffix": "l"
+                        },
+                        {
+                            "type": 2,
+                            "suffix": "s"
+                        },
+                        {
+                            "type": 1,
+                            "suffix": "t"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "featuredImageTrackingDetails": {
+        "version": "20220425",
+        "namespace": "DataScience",
+        "algorithmName": "herobandit.v20201116-contextual-heroaesthetics.v20200130-hsc.v20190223"
+    },
+    "propertyImageTrackingDetails": {
+        "version": "20220425",
+        "namespace": "DataScience",
+        "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+    }
+}

@@ -1,0 +1,2944 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Париж, Франция",
+            "query": {
+                "destination": {
+                    "id": "504261",
+                    "value": "Париж, Франция",
+                    "resolvedLocation": "CITY:504261:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 3027,
+                "results": [
+                    {
+                        "id": 233832,
+                        "name": "Cyan Hotel Roissy Villepinte Parc Des Expositions",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "53 Avenue des Nations",
+                            "extendedAddress": "",
+                            "locality": "Villepinte",
+                            "postalCode": "95973",
+                            "region": "Roissy en France",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.4,
+                            "rating": "6,4",
+                            "total": 136,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "17 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "20 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$34",
+                                "exactCurrent": 33.74
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Villepinte",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 48.972609,
+                            "lon": 2.511866
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1179215,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1179300/1179215/bfceb608_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 572005,
+                        "name": "hotelF1 Roissy CDG",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "335 rue de la Belle Etoile",
+                            "extendedAddress": "ZAC Paris Nord 2",
+                            "locality": "Roissy-en-France",
+                            "postalCode": "95974",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7,0",
+                            "total": 352,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "22 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$34",
+                                "exactCurrent": 34.34
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Roissy-en-France",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 48.988808,
+                            "lon": 2.514141
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 13435224,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/14000000/13440000/13435300/13435224/20a10cf1_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1251140384,
+                        "name": "Chambre privée à Drancy",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "7 rue Michelet",
+                            "extendedAddress": "",
+                            "locality": "Drancy",
+                            "postalCode": "93700",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6,6",
+                            "total": 19,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "10 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "13 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$40",
+                                "exactCurrent": 40.34
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Drancy",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 48.919907,
+                            "lon": 2.452785
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 39066887,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/40000000/39070000/39066900/39066887/39ef214c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579186,
+                        "name": "hotelF1 Chilly-Mazarin Les Champarts",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "ZA de la Butte au Berger",
+                            "extendedAddress": "",
+                            "locality": "Chilly-Mazarin",
+                            "postalCode": "91380",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6,0",
+                            "total": 74,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "17 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "16 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$38",
+                                "exactCurrent": 38.38
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Chilly-Mazarin",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.71541,
+                            "lon": 2.300037
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14770073,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14780000/14770100/14770073/d5893e92_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 252423,
+                        "name": "Première Classe Versailles - St Cyr l'Ecole",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Rue du Pont de Dreux",
+                            "extendedAddress": "",
+                            "locality": "Saint-Cyr-l'Ecole",
+                            "postalCode": "78210",
+                            "region": "Yvelines",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.2,
+                            "rating": "7,2",
+                            "total": 189,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "22 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "19 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$41",
+                                "exactCurrent": 40.94
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Saint-Cyr-l'Ecole",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|increaseNumberOfReviewsRequired|TESCO",
+                        "coordinate": {
+                            "lat": 48.79608,
+                            "lon": 2.05818
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1619807,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1619900/1619807/e6c55c1a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579184,
+                        "name": "hotelF1 Rungis Orly",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "7 rue du Pont des Halles",
+                            "extendedAddress": "",
+                            "locality": "Rungis",
+                            "postalCode": "94656",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.8,
+                            "rating": "6,8",
+                            "total": 149,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "12 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$40",
+                                "exactCurrent": 39.96
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Rungis",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.755816,
+                            "lon": 2.349194
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14770162,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14780000/14770200/14770162/b4787ea6_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 646132,
+                        "name": "Bastille Hostel",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "6 rue Trousseau",
+                            "extendedAddress": "",
+                            "locality": "Paris",
+                            "postalCode": "75011",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.6,
+                            "rating": "5,6",
+                            "total": 67,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "2,9 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "6,2 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$46",
+                                "exactCurrent": 46.27,
+                                "old": "$79"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Район Сент-Маргерит",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 48.85096,
+                            "lon": 2.37871
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 16652993,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/17000000/16660000/16653000/16652993/3c908e99_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 252481,
+                        "name": "Première Classe Epinay Sur Orge Savigny Sur Orge",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1 B, Rue de Charaintru",
+                            "extendedAddress": "",
+                            "locality": "Epinay-sur-Orge",
+                            "postalCode": "91360",
+                            "region": "Essonne",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6,6",
+                            "total": 122,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "21 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "20 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$41",
+                                "exactCurrent": 41.15
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Epinay-sur-Orge",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 48.677511,
+                            "lon": 2.335166
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1618359,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1618400/1618359/526d68ad_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579223,
+                        "name": "hotelF1 Paris Saint-Denis Université",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "11 avenue Lenine",
+                            "extendedAddress": "",
+                            "locality": "Saint-Denis",
+                            "postalCode": "93200",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6,0",
+                            "total": 180,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "8,6 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "10 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$41",
+                                "exactCurrent": 41.38
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Saint-Denis",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": 48.938092,
+                            "lon": 2.368268
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14770919,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14780000/14771000/14770919/d3d65c4b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 651191,
+                        "name": "Auberge Internationale des Jeunes",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "10 rue Trousseau",
+                            "extendedAddress": "",
+                            "locality": "Paris",
+                            "postalCode": "75011",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6,6",
+                            "total": 83,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "2,9 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "6,2 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$42",
+                                "exactCurrent": 41.61,
+                                "old": "$70"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Район Сент-Маргерит",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": 48.85107,
+                            "lon": 2.37877
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 17028108,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/18000000/17030000/17028200/17028108/23b7ebbf_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 252230,
+                        "name": "PREMIERE CLASSE VILLEPINTE CENTRE - Parc des Expositions",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-8, Avenue Jean-Fouregeaud",
+                            "extendedAddress": "Espace V",
+                            "locality": "Villepinte",
+                            "postalCode": "93420",
+                            "region": "Seine-Saint-Denis",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.8,
+                            "rating": "6,8",
+                            "total": 364,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "22 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$42",
+                                "exactCurrent": 41.83
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Ле-Муссо",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 48.96077,
+                            "lon": 2.55263
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1613297,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1613300/1613297/11421848_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 549362,
+                        "name": "Ibis Budget Antony Massy",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "11, Rue Marcelin Berthelot",
+                            "extendedAddress": "Z.I du Vaulorin",
+                            "locality": "Antony",
+                            "postalCode": "92160",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7,0",
+                            "total": 113,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "14 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "14 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$43",
+                                "exactCurrent": 42.72
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Antony",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.73568,
+                            "lon": 2.31506
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 12423158,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/13000000/12430000/12423200/12423158/103311cf_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 347512,
+                        "name": "ibis budget Chilly Mazarin Les Champarts",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Route De Longjumeau",
+                            "extendedAddress": "",
+                            "locality": "Chilly-Mazarin",
+                            "postalCode": "91380",
+                            "region": "Essonne",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.2,
+                            "rating": "7,2",
+                            "total": 109,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "17 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "16 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$41",
+                                "exactCurrent": 40.83
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Chilly-Mazarin",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 48.713154,
+                            "lon": 2.297985
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 3619948,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/4000000/3620000/3620000/3619948/7f231938_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 253177,
+                        "name": "Première Classe Roissy Charles De Gaulle Paris Nord 2",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "309 Rue de la Belle Etoile",
+                            "extendedAddress": "ZI Paris Nord 2, BP5005",
+                            "locality": "Roissy-en-France",
+                            "postalCode": "95945",
+                            "region": "Val-d'Oise",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6,6",
+                            "total": 1071,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "22 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$44",
+                                "exactCurrent": 43.53
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Roissy-en-France",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 48.988403,
+                            "lon": 2.51371
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1312055,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1320000/1312100/1312055/6ae00716_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579242,
+                        "name": "ibis budget Sucy en Brie",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "3 rue des Ameriques",
+                            "extendedAddress": "ZAC du Petit Marais",
+                            "locality": "Sucy-en-Brie",
+                            "postalCode": "94370",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7,0",
+                            "total": 161,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "15 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "18 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$44",
+                                "exactCurrent": 44.31
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Sucy-en-Brie",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.773724,
+                            "lon": 2.497672
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14771163,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14780000/14771200/14771163/4f2a5bde_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 252829,
+                        "name": "Premiere Classe Herblay",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Rue Rene Coty Angle Av de la Liberation",
+                            "extendedAddress": "",
+                            "locality": "Herblay",
+                            "postalCode": "95220",
+                            "region": "Val-d'Oise",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.2,
+                            "rating": "7,2",
+                            "total": 109,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "18 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$44",
+                                "exactCurrent": 44.31
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Herblay",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 49.00168,
+                            "lon": 2.18603
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1614344,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1614400/1614344/c9e3a7a5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 473961,
+                        "name": "Hotel de la Poste",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "94 Rue Riquet",
+                            "extendedAddress": "",
+                            "locality": "Paris",
+                            "postalCode": "75018",
+                            "region": "Paris",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6,0",
+                            "total": 171,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "3,3 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "6,0 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$45",
+                                "exactCurrent": 44.53
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Район Шапель",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 48.890113,
+                            "lon": 2.361022
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 9027063,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/10000000/9030000/9027100/9027063/33d99f87_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579291,
+                        "name": "hotelF1 Villepinte Parc des Expositions",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Parc des Expo",
+                            "extendedAddress": "Sortie no2 Visiteurs A104",
+                            "locality": "Villepinte",
+                            "postalCode": "95970",
+                            "region": "Seine-Saint-Denis",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 4.8,
+                            "rating": "4,8",
+                            "total": 71,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "17 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "20 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$45",
+                                "exactCurrent": 44.84
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Villepinte",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.967244,
+                            "lon": 2.515975
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 14766387,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14766400/14766387/cb7237df_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 252485,
+                        "name": "Hotel Première Classe Saint Quentin En Yvelines - Elancourt",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Z.A de Trappes Elancourt 65 B",
+                            "extendedAddress": "Avenue Georges Politzer",
+                            "locality": "Elancourt",
+                            "postalCode": "78190",
+                            "region": "Yvelines",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.8,
+                            "rating": "5,8",
+                            "total": 78,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "29 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "26 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$45",
+                                "exactCurrent": 44.9
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Elancourt",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 48.7618,
+                            "lon": 1.97428
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1613298,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1613300/1613298/cb8992a3_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 601581,
+                        "name": "ibis budget Gennevilliers Asnières",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "4 rue Georges Corete",
+                            "extendedAddress": "",
+                            "locality": "Gennevilliers",
+                            "postalCode": "92230",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7,0",
+                            "total": 143,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,7 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "6,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$45",
+                                "exactCurrent": 45.35
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Gennevilliers",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO|showGoldContentDescriptionHCOMUSenUS",
+                        "coordinate": {
+                            "lat": 48.91789,
+                            "lon": 2.30717
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 15145612,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/16000000/15150000/15145700/15145612/a83b7cd8_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 252398,
+                        "name": "Premiere Classe Le Blanc Mesnil",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Avenue Descartes",
+                            "extendedAddress": "",
+                            "locality": "Le Blanc-Mesnil",
+                            "postalCode": "93150",
+                            "region": "Seine-Saint-Denis",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.4,
+                            "rating": "5,4",
+                            "total": 338,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "13 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "16 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$46",
+                                "exactCurrent": 45.62
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Le Blanc-Mesnil",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 48.950411,
+                            "lon": 2.465757
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1614880,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1614900/1614880/b66cc4ec_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 2343790400,
+                        "name": "easyHotel Paris Charles de Gaulle",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "10 Rue de la Belle Borne",
+                            "extendedAddress": "",
+                            "locality": "Tremblay-en-France",
+                            "postalCode": "93290",
+                            "region": "Roissy",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 90,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "22 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$42",
+                                "exactCurrent": 41.81,
+                                "old": "$46"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Tremblay-en-France",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": 48.989175,
+                            "lon": 2.523443
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 73212200,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/74000000/73220000/73212200/73212200/97174434_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 579158,
+                        "name": "hotelF1 Paris Gennevilliers",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2 Rue Georges Corete",
+                            "extendedAddress": "",
+                            "locality": "Gennevilliers",
+                            "postalCode": "92230",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6,0",
+                            "total": 125,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,7 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "6,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$52",
+                                "exactCurrent": 51.52
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Gennevilliers",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.917902,
+                            "lon": 2.307113
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 14763204,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14763300/14763204/3df26100_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 621131,
+                        "name": "ibis budget Versailles Trappes",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Centre de Vie Immoparc",
+                            "extendedAddress": "RN 10",
+                            "locality": "Trappes",
+                            "postalCode": "78197",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7,0",
+                            "total": 91,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "29 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "26 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$46",
+                                "exactCurrent": 46.02
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Trappes",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.76653,
+                            "lon": 1.97442
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 15145796,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/16000000/15150000/15145800/15145796/0bfa1d31_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 571715,
+                        "name": "ibis budget Vélizy",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1 Rue du Petit Clamart",
+                            "extendedAddress": "",
+                            "locality": "Velizy-Villacoublay",
+                            "postalCode": "78140",
+                            "region": "",
+                            "countryName": "France",
+                            "countryCode": "fr",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.6,
+                            "rating": "7,6",
+                            "total": 150,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "12 км"
+                            },
+                            {
+                                "label": "Эйфелева башня",
+                                "distance": "9,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$47",
+                                "exactCurrent": 46.5
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Velizy-Villacoublay",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 48.782133,
+                            "lon": 2.226095
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 13433140,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/14000000/13440000/13433200/13433140/5f7b79ad_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Звездность",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Звезды (по убыванию)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Звезды (по возрастанию)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Расстояние",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Расстояние до центра города",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Что посмотреть",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "Центр города",
+                                        "id": 504261.0
+                                    },
+                                    {
+                                        "label": "Palais de Congres de Paris (Дворец съездов)",
+                                        "id": 1635495.0
+                                    },
+                                    {
+                                        "label": "Place de la Republique (Площадь Республики)",
+                                        "id": 1724058.0
+                                    },
+                                    {
+                                        "label": "Бульвар Осман",
+                                        "id": 1736637.0
+                                    },
+                                    {
+                                        "label": "Выставочный центр Paris Expo-Porte de Versailles",
+                                        "id": 1636081.0
+                                    },
+                                    {
+                                        "label": "Выставочный центр Paris Nord Villepinte",
+                                        "id": 1714405.0
+                                    },
+                                    {
+                                        "label": "Галерея Лафайет",
+                                        "id": 1696522.0
+                                    },
+                                    {
+                                        "label": "Елисейские Поля",
+                                        "id": 1701809.0
+                                    },
+                                    {
+                                        "label": "Лувр",
+                                        "id": 520052.0
+                                    },
+                                    {
+                                        "label": "Нотр-Дам",
+                                        "id": 528023.0
+                                    },
+                                    {
+                                        "label": "Опера Гарнье",
+                                        "id": 1632921.0
+                                    },
+                                    {
+                                        "label": "Парижская Олимпия",
+                                        "id": 1652497.0
+                                    },
+                                    {
+                                        "label": "Парк де Пренс",
+                                        "id": 1652423.0
+                                    },
+                                    {
+                                        "label": "Площадь Бастилии",
+                                        "id": 1652476.0
+                                    },
+                                    {
+                                        "label": "Стад-де-Франс",
+                                        "id": 1652457.0
+                                    },
+                                    {
+                                        "label": "Стадион AccorHotels Arena",
+                                        "id": 1696523.0
+                                    },
+                                    {
+                                        "label": "Стадион Роланд-Гаррос",
+                                        "id": 10891120.0
+                                    },
+                                    {
+                                        "label": "Триумфальная арка",
+                                        "id": 1431.0
+                                    },
+                                    {
+                                        "label": "Улица Клер",
+                                        "id": 1752172.0
+                                    },
+                                    {
+                                        "label": "Эйфелева башня",
+                                        "id": 520053.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Вокзалы и станции",
+                                "itemMeta": "stations",
+                                "choices": [
+                                    {
+                                        "label": "Вокзал Аэропорт Шарль-де-Голль-2",
+                                        "id": 1714783.0
+                                    },
+                                    {
+                                        "label": "Восточный вокзал",
+                                        "id": 1701542.0
+                                    },
+                                    {
+                                        "label": "Лионский вокзал",
+                                        "id": 1714821.0
+                                    },
+                                    {
+                                        "label": "Станция Bercy",
+                                        "id": 1704128.0
+                                    },
+                                    {
+                                        "label": "Станция CDG Airport Terminal 1",
+                                        "id": 11131015.0
+                                    },
+                                    {
+                                        "label": "Станция Charles de Gaulle – Étoile",
+                                        "id": 1700933.0
+                                    },
+                                    {
+                                        "label": "Станция Châtelet",
+                                        "id": 1700958.0
+                                    },
+                                    {
+                                        "label": "Станция Gare du Nord",
+                                        "id": 1704087.0
+                                    },
+                                    {
+                                        "label": "Станция Opéra",
+                                        "id": 1704055.0
+                                    },
+                                    {
+                                        "label": "Станция Paris Châtelet-Les Halles",
+                                        "id": 1701477.0
+                                    },
+                                    {
+                                        "label": "Станция Paris Montparnasse",
+                                        "id": 1636723.0
+                                    },
+                                    {
+                                        "label": "Станция Paris Saint-Michel - Notre Dame",
+                                        "id": 1733515.0
+                                    },
+                                    {
+                                        "label": "Станция Paris-St-Lazare",
+                                        "id": 1701454.0
+                                    },
+                                    {
+                                        "label": "Станция Porte d'Orléans",
+                                        "id": 1704121.0
+                                    },
+                                    {
+                                        "label": "Станция Porte Maillot",
+                                        "id": 1721178.0
+                                    },
+                                    {
+                                        "label": "Станция Roissy Charles-de-Gaulle Aéroport",
+                                        "id": 1714546.0
+                                    },
+                                    {
+                                        "label": "Станция Saint-Germain-des-Prés",
+                                        "id": 1704101.0
+                                    },
+                                    {
+                                        "label": "Станция TGV Tremblay-en-France Aéroport Charles de Gaulle 2",
+                                        "id": 1752148.0
+                                    },
+                                    {
+                                        "label": "Станция Villepinte Parc-des-Expositions",
+                                        "id": 1716065.0
+                                    },
+                                    {
+                                        "label": "Станция метро Orly Sud Airport",
+                                        "id": 11130996.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Аэропорты",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Аэропорт Орли (ORY)",
+                                        "id": 485292.0
+                                    },
+                                    {
+                                        "label": "Руасси – Аэропорт Шарль-де-Голль (CDG)",
+                                        "id": 485293.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Рейтинг гостей",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Рейтинг гостей",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Цена",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Цена (по возрастанию)",
+                        "choices": [
+                            {
+                                "label": "Цена (по убыванию)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Цена (по возрастанию)",
+                                "value": "PRICE",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 504261.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:504261:UNKNOWN:UNKNOWN",
+                            "q-destination": "Париж, Франция",
+                            "destination-id": "504261"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "Центр города",
+                            "value": "504261"
+                        },
+                        {
+                            "label": "Эйфелева башня",
+                            "value": "520053"
+                        },
+                        {
+                            "label": "Руасси – Аэропорт Шарль-де-Голль (CDG)",
+                            "value": "485293"
+                        },
+                        {
+                            "label": "Лувр",
+                            "value": "520052"
+                        },
+                        {
+                            "label": "Опера Гарнье",
+                            "value": "1632921"
+                        },
+                        {
+                            "label": "Елисейские Поля",
+                            "value": "1701809"
+                        },
+                        {
+                            "label": "Триумфальная арка",
+                            "value": "1431"
+                        },
+                        {
+                            "label": "Аэропорт Орли (ORY)",
+                            "value": "485292"
+                        },
+                        {
+                            "label": "Станция Paris Montparnasse",
+                            "value": "1636723"
+                        },
+                        {
+                            "label": "Выставочный центр Paris Expo-Porte de Versailles",
+                            "value": "1636081"
+                        },
+                        {
+                            "label": "Галерея Лафайет",
+                            "value": "1696522"
+                        },
+                        {
+                            "label": "Выставочный центр Paris Nord Villepinte",
+                            "value": "1714405"
+                        },
+                        {
+                            "label": "Нотр-Дам",
+                            "value": "528023"
+                        },
+                        {
+                            "label": "Восточный вокзал",
+                            "value": "1701542"
+                        },
+                        {
+                            "label": "Стадион AccorHotels Arena",
+                            "value": "1696523"
+                        },
+                        {
+                            "label": "Palais de Congres de Paris (Дворец съездов)",
+                            "value": "1635495"
+                        },
+                        {
+                            "label": "Станция CDG Airport Terminal 1",
+                            "value": "11131015"
+                        },
+                        {
+                            "label": "Станция Paris-St-Lazare",
+                            "value": "1701454"
+                        },
+                        {
+                            "label": "Стад-де-Франс",
+                            "value": "1652457"
+                        },
+                        {
+                            "label": "Вокзал Аэропорт Шарль-де-Голль-2",
+                            "value": "1714783"
+                        }
+                    ],
+                    "distance": []
+                },
+                "neighbourhood": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "15-й округ",
+                            "value": "1731383"
+                        },
+                        {
+                            "label": "8-й округ",
+                            "value": "1731373"
+                        },
+                        {
+                            "label": "6-й округ",
+                            "value": "1731372"
+                        },
+                        {
+                            "label": "7-й округ",
+                            "value": "1731391"
+                        },
+                        {
+                            "label": "9-й округ",
+                            "value": "1731375"
+                        },
+                        {
+                            "label": "Шам-Элизе",
+                            "value": "11117463"
+                        },
+                        {
+                            "label": "1-й округ",
+                            "value": "1731364"
+                        },
+                        {
+                            "label": "5-й округ",
+                            "value": "1731370"
+                        },
+                        {
+                            "label": "14-й округ",
+                            "value": "1731382"
+                        },
+                        {
+                            "label": "Берси",
+                            "value": "1691967"
+                        },
+                        {
+                            "label": "17-й округ",
+                            "value": "1731385"
+                        },
+                        {
+                            "label": "13-й округ",
+                            "value": "1731380"
+                        },
+                        {
+                            "label": "Сен-Жермен-де-Пре",
+                            "value": "1691784"
+                        },
+                        {
+                            "label": "10-й округ",
+                            "value": "1731376"
+                        },
+                        {
+                            "label": "11-й округ",
+                            "value": "1731377"
+                        },
+                        {
+                            "label": "16-й округ",
+                            "value": "1731384"
+                        },
+                        {
+                            "label": "12-й округ",
+                            "value": "1731379"
+                        },
+                        {
+                            "label": "Латинский квартал",
+                            "value": "1639764"
+                        },
+                        {
+                            "label": "18-й округ",
+                            "value": "1731387"
+                        },
+                        {
+                            "label": "2-й округ",
+                            "value": "1731365"
+                        },
+                        {
+                            "label": "4-й округ",
+                            "value": "1731369"
+                        },
+                        {
+                            "label": "19-й округ",
+                            "value": "1731389"
+                        },
+                        {
+                            "label": "3-й округ",
+                            "value": "1731367"
+                        },
+                        {
+                            "label": "Район Фобур-Монмартр",
+                            "value": "11117504"
+                        },
+                        {
+                            "label": "20-й округ",
+                            "value": "1731390"
+                        },
+                        {
+                            "label": "Пигаль",
+                            "value": "1722994"
+                        },
+                        {
+                            "label": "Ла-Виллет",
+                            "value": "1691964"
+                        },
+                        {
+                            "label": "Ле-Аль",
+                            "value": "11117465"
+                        },
+                        {
+                            "label": "Мадлен",
+                            "value": "10990271"
+                        },
+                        {
+                            "label": "Порт-де-Клиши",
+                            "value": "10990272"
+                        },
+                        {
+                            "label": "Ла-Плен-Сен-Дени",
+                            "value": "11071260"
+                        },
+                        {
+                            "label": "Район Пляс-Вандом",
+                            "value": "11117493"
+                        },
+                        {
+                            "label": "Мёдон-ла-Форе",
+                            "value": "10990967"
+                        },
+                        {
+                            "label": "Нотр-Дам-де-Шам",
+                            "value": "11117415"
+                        },
+                        {
+                            "label": "Белвиль",
+                            "value": "10798929"
+                        },
+                        {
+                            "label": "Гренель",
+                            "value": "11037980"
+                        },
+                        {
+                            "label": "Одеон",
+                            "value": "11117401"
+                        },
+                        {
+                            "label": "Терн",
+                            "value": "10990286"
+                        },
+                        {
+                            "label": "Сорбонна",
+                            "value": "11117478"
+                        },
+                        {
+                            "label": "Батиньоль",
+                            "value": "10565089"
+                        },
+                        {
+                            "label": "Район Инвалиде",
+                            "value": "11117476"
+                        },
+                        {
+                            "label": "Пасси",
+                            "value": "10990951"
+                        },
+                        {
+                            "label": "Центр Парижа",
+                            "value": "1730997"
+                        },
+                        {
+                            "label": "Марэ",
+                            "value": "1707199"
+                        },
+                        {
+                            "label": "Монмартр",
+                            "value": "1707200"
+                        },
+                        {
+                            "label": "Montparnasse (небоскреб)",
+                            "value": "1707272"
+                        },
+                        {
+                            "label": "Жардин-де-плант",
+                            "value": "11117398"
+                        },
+                        {
+                            "label": "Пале-Руаяль",
+                            "value": "11117898"
+                        },
+                        {
+                            "label": "Пер-Лашез",
+                            "value": "1691973"
+                        },
+                        {
+                            "label": "Вивьен",
+                            "value": "11117670"
+                        },
+                        {
+                            "label": "Отей",
+                            "value": "11117731"
+                        },
+                        {
+                            "label": "Лез-Иль",
+                            "value": "11117903"
+                        },
+                        {
+                            "label": "Картье-де-ла-Гар",
+                            "value": "11023508"
+                        },
+                        {
+                            "label": "Шайо",
+                            "value": "11117484"
+                        },
+                        {
+                            "label": "Клиньанкур",
+                            "value": "10990917"
+                        },
+                        {
+                            "label": "Ар-э-Метье",
+                            "value": "11117727"
+                        },
+                        {
+                            "label": "Л'Ероп",
+                            "value": "10990273"
+                        },
+                        {
+                            "label": "Парк-де-Монсури",
+                            "value": "11117422"
+                        },
+                        {
+                            "label": "Порт-Дофин",
+                            "value": "11117728"
+                        },
+                        {
+                            "label": "Район Пети-Монруж",
+                            "value": "11117456"
+                        },
+                        {
+                            "label": "Район Эколь-Милитэр",
+                            "value": "11117442"
+                        },
+                        {
+                            "label": "Шоссе-д'Антен",
+                            "value": "11117383"
+                        },
+                        {
+                            "label": "Бют-о-Кай",
+                            "value": "10990262"
+                        },
+                        {
+                            "label": "Ла-Варен-Сент-Илер",
+                            "value": "1712788"
+                        },
+                        {
+                            "label": "Некер",
+                            "value": "11117444"
+                        },
+                        {
+                            "label": "Порт-Сен-Мартен",
+                            "value": "11117389"
+                        },
+                        {
+                            "label": "Университе",
+                            "value": "11117433"
+                        },
+                        {
+                            "label": "Кенз-Вен",
+                            "value": "11117492"
+                        },
+                        {
+                            "label": "Опиталь-Сен-Луи",
+                            "value": "11117449"
+                        },
+                        {
+                            "label": "Район Порт-Сен-Дени",
+                            "value": "11117488"
+                        },
+                        {
+                            "label": "Иври-Пор",
+                            "value": "11117454"
+                        },
+                        {
+                            "label": "Пикпюс",
+                            "value": "11117736"
+                        },
+                        {
+                            "label": "Район де-Рошешуар",
+                            "value": "11117718"
+                        },
+                        {
+                            "label": "Район Жавель",
+                            "value": "11117503"
+                        },
+                        {
+                            "label": "Фобур-де-л’Арш",
+                            "value": "11117423"
+                        },
+                        {
+                            "label": "Бон-Нувель",
+                            "value": "11117912"
+                        },
+                        {
+                            "label": "Район Сальпетриер",
+                            "value": "11117416"
+                        },
+                        {
+                            "label": "Район Фоли-Мерикур",
+                            "value": "11117400"
+                        },
+                        {
+                            "label": "Шарон",
+                            "value": "11117475"
+                        },
+                        {
+                            "label": "Район Сен-Жорж",
+                            "value": "11117669"
+                        },
+                        {
+                            "label": "Район Сен-Амбруаз",
+                            "value": "11117477"
+                        },
+                        {
+                            "label": "Район Монне",
+                            "value": "11117441"
+                        },
+                        {
+                            "label": "Район Мэзон-Бланш",
+                            "value": "11117450"
+                        },
+                        {
+                            "label": "Район Гро-Кайю",
+                            "value": "11117419"
+                        },
+                        {
+                            "label": "Сен-Ламбер",
+                            "value": "11117899"
+                        },
+                        {
+                            "label": "Район Мюэт",
+                            "value": "11117740"
+                        },
+                        {
+                            "label": "Валь-де-Грас",
+                            "value": "11117916"
+                        },
+                        {
+                            "label": "Пти-Нантер",
+                            "value": "11117659"
+                        },
+                        {
+                            "label": "Домен-дю-Буа",
+                            "value": "11117733"
+                        },
+                        {
+                            "label": "Район Рокет",
+                            "value": "11117425"
+                        },
+                        {
+                            "label": "Арсеналь",
+                            "value": "11117434"
+                        },
+                        {
+                            "label": "Гайон",
+                            "value": "11117902"
+                        },
+                        {
+                            "label": "Плезанс",
+                            "value": "11117913"
+                        },
+                        {
+                            "label": "Сен-Жерве",
+                            "value": "11117430"
+                        },
+                        {
+                            "label": "Бель-Эр",
+                            "value": "10996974"
+                        },
+                        {
+                            "label": "Район Гранд-Карьер",
+                            "value": "11117439"
+                        },
+                        {
+                            "label": "Район Шапель",
+                            "value": "11117406"
+                        },
+                        {
+                            "label": "Сен-Тома-д'Акен",
+                            "value": "11117453"
+                        },
+                        {
+                            "label": "Азиатский квартал",
+                            "value": "10565702"
+                        },
+                        {
+                            "label": "Район Май",
+                            "value": "11117482"
+                        },
+                        {
+                            "label": "Фобур-дю-Руль",
+                            "value": "11117734"
+                        },
+                        {
+                            "label": "Район Гут-д'Ор",
+                            "value": "11117914"
+                        },
+                        {
+                            "label": "Сен-Венсан-де-Поль",
+                            "value": "11117428"
+                        },
+                        {
+                            "label": "Сен-Жермэн-л'Осерруа",
+                            "value": "11117717"
+                        },
+                        {
+                            "label": "Сен-Луи",
+                            "value": "11117882"
+                        },
+                        {
+                            "label": "Сен-Виктор",
+                            "value": "11117518"
+                        },
+                        {
+                            "label": "Эпинет",
+                            "value": "11117412"
+                        },
+                        {
+                            "label": "Нотр-Дам",
+                            "value": "11117864"
+                        },
+                        {
+                            "label": "Поршефонтен",
+                            "value": "11117459"
+                        },
+                        {
+                            "label": "Гамбетта",
+                            "value": "11117667"
+                        },
+                        {
+                            "label": "Район Буль - Шам-Пьерё",
+                            "value": "11117485"
+                        },
+                        {
+                            "label": "Сен-Луи",
+                            "value": "11118052"
+                        },
+                        {
+                            "label": "Триангль-де-Шуази",
+                            "value": "11117468"
+                        },
+                        {
+                            "label": "Район Плен-де-Монсо",
+                            "value": "11117617"
+                        },
+                        {
+                            "label": "Плато - Мон-Валериен",
+                            "value": "11117409"
+                        },
+                        {
+                            "label": "Район Сент-Маргерит",
+                            "value": "11117397"
+                        },
+                        {
+                            "label": "Район Сент-Авуа",
+                            "value": "11117867"
+                        },
+                        {
+                            "label": "Крульбарб",
+                            "value": "11118087"
+                        },
+                        {
+                            "label": "Сен-Мерь",
+                            "value": "11117517"
+                        },
+                        {
+                            "label": "Ла-Сурс",
+                            "value": "11117385"
+                        },
+                        {
+                            "label": "Аршив",
+                            "value": "11117487"
+                        },
+                        {
+                            "label": "Шантье",
+                            "value": "11117917"
+                        },
+                        {
+                            "label": "Луи-Бертран-Мирабо-Семар",
+                            "value": "11117418"
+                        },
+                        {
+                            "label": "Кер-де-Вий",
+                            "value": "11117735"
+                        },
+                        {
+                            "label": "Америк",
+                            "value": "11117384"
+                        },
+                        {
+                            "label": "Парк-Нор",
+                            "value": "11117655"
+                        },
+                        {
+                            "label": "Район Пон-де-Фландр",
+                            "value": "11117483"
+                        },
+                        {
+                            "label": "Комба",
+                            "value": "11117405"
+                        },
+                        {
+                            "label": "Дидро",
+                            "value": "11117897"
+                        },
+                        {
+                            "label": "Анфан-Руж",
+                            "value": "11117420"
+                        },
+                        {
+                            "label": "Сен-Фаржо",
+                            "value": "11117466"
+                        },
+                        {
+                            "label": "Ле-Трамбле",
+                            "value": "11117726"
+                        },
+                        {
+                            "label": "Район Вьё-Пон - Сент-Женевьев",
+                            "value": "11117730"
+                        },
+                        {
+                            "label": "Пти-Коломбе",
+                            "value": "12527148"
+                        },
+                        {
+                            "label": "Нотр-Дам",
+                            "value": "12518520"
+                        },
+                        {
+                            "label": "Сите-де-Перишо",
+                            "value": "12522346"
+                        },
+                        {
+                            "label": "Кот-д’Ор-Ле-Сарразен",
+                            "value": "11117471"
+                        },
+                        {
+                            "label": "Фландр",
+                            "value": "12518599"
+                        },
+                        {
+                            "label": "Бель-Эр-Нор",
+                            "value": "12508362"
+                        },
+                        {
+                            "label": "Кюриаль-Камбре",
+                            "value": "12530437"
+                        },
+                        {
+                            "label": "Блёэ - Бордьер - Пенсон",
+                            "value": "11117474"
+                        },
+                        {
+                            "label": "Репюблик-Пон-дю-Жур",
+                            "value": "12512928"
+                        },
+                        {
+                            "label": "Рынок Les Puces de Saint-Ouen",
+                            "value": "12501858"
+                        },
+                        {
+                            "label": "Жан-Зе",
+                            "value": "11118075"
+                        },
+                        {
+                            "label": "Вилла-Монморанси",
+                            "value": "12537070"
+                        },
+                        {
+                            "label": "Виньерон",
+                            "value": "11118058"
+                        },
+                        {
+                            "label": "Фобур-Сен-Жермен",
+                            "value": "12525050"
+                        },
+                        {
+                            "label": "Шенвье-Деменитру",
+                            "value": "11117410"
+                        },
+                        {
+                            "label": "Силли-Гальени",
+                            "value": "12503777"
+                        },
+                        {
+                            "label": "Плато-Пирамид",
+                            "value": "12536871"
+                        },
+                        {
+                            "label": "Паршам-Альбер-Кан",
+                            "value": "12508449"
+                        },
+                        {
+                            "label": "Ле-Муссо",
+                            "value": "12530595"
+                        },
+                        {
+                            "label": "Пренс-Мармоттан",
+                            "value": "12513040"
+                        },
+                        {
+                            "label": "Шемен-де-л'Иль",
+                            "value": "11117424"
+                        },
+                        {
+                            "label": "Сантр-Виль",
+                            "value": "12527506"
+                        },
+                        {
+                            "label": "Питон-Дювенуа",
+                            "value": "12518621"
+                        },
+                        {
+                            "label": "Сен-Блез",
+                            "value": "12523597"
+                        },
+                        {
+                            "label": "Пти-Иври",
+                            "value": "11117436"
+                        },
+                        {
+                            "label": "Картье-де-Пеплье",
+                            "value": "12527407"
+                        },
+                        {
+                            "label": "Фальгьер",
+                            "value": "12537096"
+                        },
+                        {
+                            "label": "Адамвиль",
+                            "value": "11117748"
+                        },
+                        {
+                            "label": "Билланкур-Рив-де-Сен",
+                            "value": "12522253"
+                        },
+                        {
+                            "label": "Ле-Плато",
+                            "value": "11117479"
+                        },
+                        {
+                            "label": "Гранж-о-Белль",
+                            "value": "12518404"
+                        },
+                        {
+                            "label": "Ле-Пор-су-ла-Люн",
+                            "value": "11117505"
+                        },
+                        {
+                            "label": "Рике-Сталинград",
+                            "value": "12513170"
+                        },
+                        {
+                            "label": "Картье-Масси-Опера I",
+                            "value": "12536873"
+                        },
+                        {
+                            "label": "Картье-де-л'Орлож",
+                            "value": "12527363"
+                        },
+                        {
+                            "label": "Страсбург-Сен-Дени",
+                            "value": "12516649"
+                        },
+                        {
+                            "label": "Пор-д'Аньер",
+                            "value": "12530434"
+                        }
+                    ]
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Апарт-отели",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Виллы",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Гостевые дома",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Гостиницы",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Дворцы",
+                            "value": "29"
+                        },
+                        {
+                            "label": "Дома для отпуска",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Загородные дома",
+                            "value": "24"
+                        },
+                        {
+                            "label": "Замки",
+                            "value": "27"
+                        },
+                        {
+                            "label": "Квартиры ",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Коттеджи",
+                            "value": "11"
+                        },
+                        {
+                            "label": "Мини-отели",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Отели",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Плавучие дома",
+                            "value": "16"
+                        },
+                        {
+                            "label": "Стоянки для автофургонов",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Хостелы",
+                            "value": "12"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "В цену включен Wi-Fi",
+                            "value": "527"
+                        },
+                        {
+                            "label": "Для некурящих",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Завтрак включен",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Казино",
+                            "value": "2112"
+                        },
+                        {
+                            "label": "Круглосуточная стойка регистрации",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Парковка",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Пункт зарядки электромобилей",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Разрешено проживание с домашними животными",
+                            "value": "64"
+                        },
+                        {
+                            "label": "С баром",
+                            "value": "515"
+                        },
+                        {
+                            "label": "С бассейном",
+                            "value": "128"
+                        },
+                        {
+                            "label": "С бизнес-услугами",
+                            "value": "519"
+                        },
+                        {
+                            "label": "С ванной в номере",
+                            "value": "517"
+                        },
+                        {
+                            "label": "С детскими кроватками",
+                            "value": "525"
+                        },
+                        {
+                            "label": "С доступом в интернет",
+                            "value": "8"
+                        },
+                        {
+                            "label": "С зонами для курения",
+                            "value": "537"
+                        },
+                        {
+                            "label": "С конференц-залами",
+                            "value": "1"
+                        },
+                        {
+                            "label": "С кухней",
+                            "value": "32"
+                        },
+                        {
+                            "label": "С местом для хранения лыж",
+                            "value": "533"
+                        },
+                        {
+                            "label": "Со смежными номерами",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Со спа-салоном",
+                            "value": "539"
+                        },
+                        {
+                            "label": "Со спортзалом",
+                            "value": "2"
+                        },
+                        {
+                            "label": "С присмотром за детьми",
+                            "value": "521"
+                        },
+                        {
+                            "label": "С рестораном",
+                            "value": "256"
+                        },
+                        {
+                            "label": "С трансфером до аэропорта",
+                            "value": "513"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Безбарьерный доступ",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Безбарьерный душ",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Ванная для маломобильных гостей",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Номера для маломобильных гостей",
+                            "value": "541"
+                        },
+                        {
+                            "label": "Оборудование для слабослышащих",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Парковка, приспособленная для маломобильных гостей",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "Удобства в номерах для маломобильных гостей",
+                            "value": "1048576"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Бутик",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Для активного отдыха",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Для гольфа",
+                            "value": "26"
+                        },
+                        {
+                            "label": "Для деловых людей",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Для лыжного спорта",
+                            "value": "28"
+                        },
+                        {
+                            "label": "Для семейного отдыха",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Для шопинга",
+                            "value": "17"
+                        },
+                        {
+                            "label": "Исторические",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Класса «люкс»",
+                            "value": "15"
+                        },
+                        {
+                            "label": "На виноградниках",
+                            "value": "19"
+                        },
+                        {
+                            "label": "На термальных источниках",
+                            "value": "22"
+                        },
+                        {
+                            "label": "Обслуживание гостей ЛГБТК",
+                            "value": "21"
+                        },
+                        {
+                            "label": "С казино",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Спа",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Стоимость (общая)",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com™ Rewards",
+                    "items": [
+                        {
+                            "label": "Получите штампы",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Используйте бонусные* сутки",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=504261&hotelIds=233832,572005,1251140384,579186,252423,579184,646132,252481,579223,651191,252230,549362,347512,253177,579242,252829,473961,579291,252485,601581,252398,2343790400,579158,621131,571715&adults=2&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=a6587d2c-f9fc-458c-969a-881106f41796&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=ru.hotels.com&userIP=2600:387:f:4010::5&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": " ,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;1179215,LOCAL;13435224,LOCAL;39066887",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "3f8195f9-3f37-4b3e-9e63-0478d8050126",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar2": "Париж, Франция",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "ru.hotels.com",
+                    "s.eVar6": "504261",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "a6587d2c-f9fc-458c-969a-881106f41796",
+                    "s.eVar9": "Price - low to high",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar26": "US:TX:HOUSTON:618",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "3027",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "2969",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result without dates",
+                    "s.eVar34": "H1871:007.002,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:050.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7870:000.000,M8336:000.000,M8347:019.002,M8692:000.000,M8698:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9549:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10268:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M9215:001.001",
+                    "s.eVar13": "389273",
+                    "s.events": "event324,event320",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389273",
+                    "s.prop15": "",
+                    "s.prop3": "Париж, Франция",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-east-1.unknown",
+                    "s.prop2": "Price - low to high"
+                }
+            }
+        }
+    }
+}

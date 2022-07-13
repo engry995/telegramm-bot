@@ -1,0 +1,210 @@
+{
+    "term": "Токио",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "b2bfff9f33e448639e12e8811c7702f4",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "3593",
+                    "destinationId": "726784",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.675,
+                    "longitude": 139.76,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Токио"
+                },
+                {
+                    "geoId": "553248623547965518",
+                    "destinationId": "11108935",
+                    "landmarkCityDestinationId": null,
+                    "type": "REGION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.69635350541198,
+                    "longitude": 139.73733438277742,
+                    "searchDetail": null,
+                    "caption": "Центр <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Центр Токио"
+                },
+                {
+                    "geoId": "179168",
+                    "destinationId": "1645686",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.7011324818873,
+                    "longitude": 139.7088893916926,
+                    "searchDetail": null,
+                    "caption": "Shinjuku, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Shinjuku"
+                },
+                {
+                    "geoId": "6048237",
+                    "destinationId": "1645689",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.6704695999333,
+                    "longitude": 139.76567674446582,
+                    "searchDetail": null,
+                    "caption": "Ginza, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Ginza"
+                },
+                {
+                    "geoId": "6048236",
+                    "destinationId": "1645688",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.71693003505643,
+                    "longitude": 139.79743014255578,
+                    "searchDetail": null,
+                    "caption": "Asakusa, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Asakusa"
+                },
+                {
+                    "geoId": "6048246",
+                    "destinationId": "1645696",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.71026251744608,
+                    "longitude": 139.77549367100116,
+                    "searchDetail": null,
+                    "caption": "Ueno, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Ueno"
+                },
+                {
+                    "geoId": "179165",
+                    "destinationId": "1645684",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.60990492904677,
+                    "longitude": 139.73717569980465,
+                    "searchDetail": null,
+                    "caption": "Shinagawa, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Shinagawa"
+                },
+                {
+                    "geoId": "179167",
+                    "destinationId": "1645685",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.66785710325197,
+                    "longitude": 139.69630122145168,
+                    "searchDetail": null,
+                    "caption": "Shibuya, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Shibuya"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "2966177",
+                    "destinationId": "327489",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 46.466105,
+                    "longitude": 30.736071,
+                    "searchDetail": null,
+                    "caption": "Отель «<span class='highlighted'>Токио</span> Стар», Одесса, Одесская область, Украина",
+                    "name": "Отель «Токио Стар»"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "503084",
+                    "destinationId": "1658489",
+                    "landmarkCityDestinationId": "725183",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.635571,
+                    "longitude": 139.878886,
+                    "searchDetail": null,
+                    "caption": "Disneyland® в <span class='highlighted'>Токио</span>, Ураясу, Tиба (префектура), Япония",
+                    "name": "Disneyland® в Токио"
+                },
+                {
+                    "geoId": "6233492",
+                    "destinationId": "1753675",
+                    "landmarkCityDestinationId": "726784",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.65951,
+                    "longitude": 139.700528,
+                    "searchDetail": null,
+                    "caption": "Перекресток Сибуя, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Перекресток Сибуя"
+                },
+                {
+                    "geoId": "553248621526921424",
+                    "destinationId": "10601595",
+                    "landmarkCityDestinationId": "726784",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.728153,
+                    "longitude": 139.707014,
+                    "searchDetail": null,
+                    "caption": "Учебный центр безопасности жизнедеятельности Икебукуро, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Учебный центр безопасности жизнедеятельности Икебукуро"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "5526094",
+                    "destinationId": "719635",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.773258,
+                    "longitude": 140.388451,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Токио</span>, Япония (NRT-Нарита, международный)",
+                    "name": "Токио (NRT-Нарита, международный)"
+                },
+                {
+                    "geoId": "4476488",
+                    "destinationId": "1645880",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.549477,
+                    "longitude": 139.785104,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Токио</span>, Япония (HND-Ханэда)",
+                    "name": "Токио (HND-Ханэда)"
+                },
+                {
+                    "geoId": "6161791",
+                    "destinationId": "1717065",
+                    "landmarkCityDestinationId": null,
+                    "type": "TRAIN_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.681325,
+                    "longitude": 139.766319,
+                    "searchDetail": null,
+                    "caption": "Станция Tokyo, <span class='highlighted'>Токио</span>, Токио (префектура), Япония",
+                    "name": "Станция Tokyo"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

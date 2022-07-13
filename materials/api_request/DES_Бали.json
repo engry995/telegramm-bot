@@ -1,0 +1,208 @@
+{
+    "term": "Бали",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "a21e2c89e43d4030ba5740d7706adc07",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "6035278",
+                    "destinationId": "1694425",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 35.406876540586495,
+                    "longitude": 24.781360741752547,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Бали</span>, Милопотамос, Остров Крит, Греция",
+                    "name": "Бали"
+                },
+                {
+                    "geoId": "9278",
+                    "destinationId": "1638412",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.7693,
+                    "longitude": 115.221863,
+                    "searchDetail": null,
+                    "caption": "Нуса-Дуа, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Нуса-Дуа"
+                },
+                {
+                    "geoId": "12094",
+                    "destinationId": "662985",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.50714,
+                    "longitude": 115.262939,
+                    "searchDetail": null,
+                    "caption": "Убуд, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Убуд"
+                },
+                {
+                    "geoId": "8956",
+                    "destinationId": "1637358",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.722991400227283,
+                    "longitude": 115.1762587545803,
+                    "searchDetail": null,
+                    "caption": "Кута, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Кута"
+                },
+                {
+                    "geoId": "6049351",
+                    "destinationId": "1642042",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.636972464659335,
+                    "longitude": 115.14643711863123,
+                    "searchDetail": null,
+                    "caption": "Чангу, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Чангу"
+                },
+                {
+                    "geoId": "6271832",
+                    "destinationId": "689059",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 15.153263718093665,
+                    "longitude": 74.02147721894468,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Бали</span>, Кепем, Гоа, Индия",
+                    "name": "Бали"
+                },
+                {
+                    "geoId": "6047747",
+                    "destinationId": "1642080",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.683343788815996,
+                    "longitude": 115.16380285574652,
+                    "searchDetail": null,
+                    "caption": "Семиньяк, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Семиньяк"
+                },
+                {
+                    "geoId": "601389",
+                    "destinationId": "656467",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.770784,
+                    "longitude": 115.173187,
+                    "searchDetail": null,
+                    "caption": "Джимбаран, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Джимбаран"
+                },
+                {
+                    "geoId": "6049365",
+                    "destinationId": "1667038",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.691694549679209,
+                    "longitude": 115.26093333464482,
+                    "searchDetail": null,
+                    "caption": "Санур, Денпасар, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Санур"
+                },
+                {
+                    "geoId": "6125117",
+                    "destinationId": "1697716",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.352755763129931,
+                    "longitude": 115.67633380413467,
+                    "searchDetail": null,
+                    "caption": "Амед, Карангасем, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Амед"
+                },
+                {
+                    "geoId": "665",
+                    "destinationId": "660303",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -1.1504260495939114,
+                    "longitude": 116.91882391813594,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Бали</span>кпапан, Восточный Калимантан, Индонезия",
+                    "name": "Баликпапан"
+                },
+                {
+                    "geoId": "1054",
+                    "destinationId": "661282",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.655615,
+                    "longitude": 115.214478,
+                    "searchDetail": null,
+                    "caption": "Денпасар, Denpasar, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Денпасар"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": []
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6074984",
+                    "destinationId": "1656166",
+                    "landmarkCityDestinationId": "1667038",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.700406549608903,
+                    "longitude": 115.2654538082117,
+                    "searchDetail": null,
+                    "caption": "Пляж Санур, Денпасар, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Пляж Санур"
+                },
+                {
+                    "geoId": "6074988",
+                    "destinationId": "1656170",
+                    "landmarkCityDestinationId": "1697716",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.335123621503191,
+                    "longitude": 115.65219642087236,
+                    "searchDetail": null,
+                    "caption": "Пляж Амед, Карангасем, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Пляж Амед"
+                },
+                {
+                    "geoId": "6074986",
+                    "destinationId": "10234774",
+                    "landmarkCityDestinationId": "12474521",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": -8.161701818918738,
+                    "longitude": 115.02342584257616,
+                    "searchDetail": null,
+                    "caption": "Пляж Ловина, Булеленг, <span class='highlighted'>Бали</span>, Индонезия",
+                    "name": "Пляж Ловина"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": []
+        }
+    ],
+    "geocodeFallback": false
+}

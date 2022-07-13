@@ -1,0 +1,3221 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Токио, Токио (префектура), Япония",
+            "query": {
+                "destination": {
+                    "id": "726784",
+                    "value": "Токио, Токио (префектура), Япония",
+                    "resolvedLocation": "CITY:726784:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 3117,
+                "results": [
+                    {
+                        "id": 1248633536,
+                        "name": "&AND HOSTEL MINAMISENJU",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "3-2-9 Minamisenju, Arakawa",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "116-0003",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 84,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "7,1 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "13 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$22",
+                                "exactCurrent": 21.86
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Минамисендзю",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|JAPANGTT",
+                        "coordinate": {
+                            "lat": 35.730398,
+                            "lon": 139.799007
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 38988548,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/39000000/38990000/38988600/38988548/b72a6ad2_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1029498464,
+                        "name": "Plat Hostel Keikyu Minowa Forest",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Ryusen 3-39-5",
+                            "extendedAddress": "Taito",
+                            "locality": "Tokyo",
+                            "postalCode": "110-0012",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 27,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,4 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "13 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$21",
+                                "exactCurrent": 20.68
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Asakusa",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 35.726227,
+                            "lon": 139.792147
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 32140577,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/33000000/32150000/32140600/32140577/cb6c6fab_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 623812864,
+                        "name": "Kangaroo Hotel",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1-21-11 Nihonzutsumi Taito-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0021",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 25,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,8 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$24",
+                                "exactCurrent": 23.54
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Asakusa",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.72649,
+                            "lon": 139.799919
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 19462902,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19470000/19463000/19462902/398c50c4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1273583392,
+                        "name": "& And Hostel Kuramae West",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-11-2 Misuji",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0055",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 7,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,1 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$24",
+                                "exactCurrent": 23.89,
+                                "old": "$27"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тайто",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 35.705365,
+                            "lon": 139.785647
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 39768231,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/40000000/39770000/39768300/39768231/846eee9d_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 931085536,
+                        "name": "FOCUS Kuramae - Hostel",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "4-21-2 Kuramae",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0051",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 88,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,3 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "11 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$26",
+                                "exactCurrent": 25.56
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Курамаэ",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.704652,
+                            "lon": 139.789963
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 29065173,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/30000000/29070000/29065200/29065173/a26aa90b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 471850,
+                        "name": "Khaosan Tokyo Origami - Hostel",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "3-4-12 Taito-ku",
+                            "extendedAddress": "Asakusa",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0032",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 53,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "5,7 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$60",
+                                "exactCurrent": 59.52
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Asakusa",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.716322,
+                            "lon": 139.797503
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 8976824,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/9000000/8980000/8976900/8976824/1433f5c4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 430877,
+                        "name": "Khaosan Tokyo Laboratory - Hostel",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-1-4 Nishi-asakusa, Taito-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0035",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 36,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "5,0 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$53",
+                                "exactCurrent": 52.52
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Нисиасакуса",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.711788,
+                            "lon": 139.791311
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5982186,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5990000/5982200/5982186/c91fee4b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 952635936,
+                        "name": "bnb+ Asakusa Kuramae - Hostel",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "4F, 1-5-10 Kotobuki",
+                            "extendedAddress": "Taito Ward",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0042",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 13,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,5 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "11 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$27",
+                                "exactCurrent": 26.61,
+                                "old": "$30"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тайто",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.706732,
+                            "lon": 139.790759
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 29738623,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/30000000/29740000/29738700/29738623/1e497d3b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 621357408,
+                        "name": "Kangaroo Hotel SIDE B",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Nihonzutsumi 1-22-2, Taito-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0021",
+                            "region": "",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7,4",
+                            "total": 23,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,8 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$27",
+                                "exactCurrent": 27.23
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Asakusa",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.726486,
+                            "lon": 139.799926
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19386169,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19390000/19386200/19386169/1ee4f2d4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1619294272,
+                        "name": "FromScratch TOKYO",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Y2 Building, 2-4-4, Ogibashi",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "135-0011",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 11,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "5,1 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "7,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$28",
+                                "exactCurrent": 27.58
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Ogibashi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13",
+                        "coordinate": {
+                            "lat": 35.682868,
+                            "lon": 139.815527
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 50571696,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/51000000/50580000/50571700/50571696/6df771f5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1023949376,
+                        "name": "Hotel Blue Empire in Shinjuku",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1-15-8 Hyakunincho, Shinjuku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "169-0073",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 50,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,2 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "18 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$41",
+                                "exactCurrent": 41.24
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Hyakunincho",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.7003,
+                            "lon": 139.698439
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 31967168,
+                        "vrBadge": "Апартаменты",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/32000000/31970000/31967200/31967168/fcf3221a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 401828,
+                        "name": "Agora Place Tokyo Asakusa",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-2-9 Kotobuki Taito-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0042",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 207,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,7 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "11 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 28.63
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тайто",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": 35.7089,
+                            "lon": 139.791218
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 4899291,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4900000/4899300/4899291/9b668f19_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 700393088,
+                        "name": "MusBee Tokyo Hamamatsucho",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1-16-11 Hamamatsucho",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "105-0013",
+                            "region": "",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 104,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,9 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "11 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$31",
+                                "exactCurrent": 30.82
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Хамамацутё",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.658109,
+                            "lon": 139.756441
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 21856034,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/22000000/21860000/21856100/21856034/f6af735a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1477082784,
+                        "name": "plat hostel keikyu haneda home",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "5-23-5 Haneda",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "144-0043",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 52,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "14 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "15 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 28.64
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Ханэда",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 35.547839,
+                            "lon": 139.748868
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 46127587,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/47000000/46130000/46127600/46127587/5487ffd0_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 698346,
+                        "name": "Sakura Hotel Nippori",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Sendagi 3-43-15, Bunkyo-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "113-0022",
+                            "region": "",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 67,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "5,9 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "15 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 29.34,
+                                "old": "$49"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Sendagi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.728124,
+                            "lon": 139.764207
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 18573933,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/19000000/18580000/18574000/18573933/0186adb2_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 404841,
+                        "name": "Hotel MyStays Ueno Iriyaguchi",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "5-5-13 Higashi Ueno",
+                            "extendedAddress": "Taito-ku",
+                            "locality": "Tokyo",
+                            "postalCode": "110-0015",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.2,
+                            "rating": "7,2",
+                            "total": 142,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,7 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 29.36
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Хигасиуэно",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.712946,
+                            "lon": 139.782003
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 4993223,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/5000000/4993300/4993223/a8f33c09_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 2128203072,
+                        "name": "OYO 44868 Hotel Florida",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-chome-36-4 Ikebukuro",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "170-0014",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.4,
+                            "rating": "5,4",
+                            "total": 6,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "8,0 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "19 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 29.48
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Ikebukuro",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": 35.733144,
+                            "lon": 139.707368
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 66475096,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/67000000/66480000/66475100/66475096/6f397e6a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 328309,
+                        "name": "Hotel MyStays Asakusa",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1-21-11 Honjo",
+                            "extendedAddress": "Sumida-ku",
+                            "locality": "Tokyo",
+                            "postalCode": "130-0004",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.6,
+                            "rating": "7,6",
+                            "total": 155,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,6 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "11 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 29.37
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Сумида",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.703637,
+                            "lon": 139.797454
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 2210652,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2220000/2210700/2210652/d69c2693_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 256825,
+                        "name": "HOTEL MYSTAYS Ueno East",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "5-5-6 Higashiueno",
+                            "extendedAddress": "Taito-ku",
+                            "locality": "Tokyo",
+                            "postalCode": "110-0015",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 263,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "4,6 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$31",
+                                "exactCurrent": 31.28
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Хигасиуэно",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|showFrequentlyAskedQuestionsenUS|TESCO",
+                        "coordinate": {
+                            "lat": 35.71243,
+                            "lon": 139.78202
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1479359,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1480000/1479400/1479359/c99c9c29_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1123981504,
+                        "name": "HOTEL LiVEMAX AKIHABARAKITA",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-5-2 Taito",
+                            "extendedAddress": "Taito-ku",
+                            "locality": "Tokyo",
+                            "postalCode": "110-0016",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 34,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "3,7 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$30",
+                                "exactCurrent": 30.12
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Тайто",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.703667,
+                            "lon": 139.780554
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 35093172,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35100000/35093200/35093172/e16675be_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 2089714560,
+                        "name": "OYO 44842 Hotel Aurora",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2 Chome 18-2, Ikebukuro",
+                            "extendedAddress": "Toshima",
+                            "locality": "Tokyo",
+                            "postalCode": "1710014",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6,6",
+                            "total": 9,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "8,0 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "19 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$34",
+                                "exactCurrent": 34.23
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Ikebukuro",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": 35.732284,
+                            "lon": 139.705923
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 65272330,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/66000000/65280000/65272400/65272330/09640dd7_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 468235,
+                        "name": "Flexstay Inn Higashi-Jujo",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-10-2, Nakajujo, Kita-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "114-0032",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7,4",
+                            "total": 73,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "10 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "20 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$29",
+                                "exactCurrent": 29.38
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Nakajujo",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.762469,
+                            "lon": 139.72729
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 8483106,
+                        "vrBadge": "Апартаменты",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/9000000/8490000/8483200/8483106/9ea67c0b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 641509216,
+                        "name": "Tokyo Guest House Ouji Music Lounge - Hostel",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-4-17, Takinogawa, Kita-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "1140023",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 24,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "8,8 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "18 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$31",
+                                "exactCurrent": 31.13
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Кита",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.751603,
+                            "lon": 139.736119
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 20015913,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/21000000/20020000/20016000/20015913/e44029d3_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 672851040,
+                        "name": "Taito Ryokan",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2-1-4, Nishi Asakusa, Taito-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "111-0035",
+                            "region": "Tokyo",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 18,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "5,0 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "12 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$33",
+                                "exactCurrent": 32.69
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Нисиасакуса",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 35.711794,
+                            "lon": 139.791209
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 20995345,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/21000000/21000000/20995400/20995345/4afcaa01_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 403867,
+                        "name": "Hotel Empire in Shinjuku",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1-15-33 Hyakunincho, Shinjuku-ku",
+                            "extendedAddress": "",
+                            "locality": "Tokyo",
+                            "postalCode": "169-0073",
+                            "region": "Tokyo-to",
+                            "countryName": "Japan",
+                            "countryCode": "jp",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7,4",
+                            "total": 138,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "6,2 км"
+                            },
+                            {
+                                "label": "Disneyland® в Токио",
+                                "distance": "18 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$31",
+                                "exactCurrent": 31.13
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Hyakunincho",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "JPcoupon|DoubleStamps|D13|JAPANGTT|TESCO",
+                        "coordinate": {
+                            "lat": 35.699996,
+                            "lon": 139.698985
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 4950904,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4960000/4951000/4950904/a0139297_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Звездность",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Звезды (по убыванию)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Звезды (по возрастанию)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Расстояние",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Расстояние до центра города",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Что посмотреть",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "Центр города",
+                                        "id": 726784.0
+                                    },
+                                    {
+                                        "label": "Disneyland® в Токио",
+                                        "id": 1658489.0
+                                    },
+                                    {
+                                        "label": "DisneySea® в Токио",
+                                        "id": 1658491.0
+                                    },
+                                    {
+                                        "label": "Makuhari",
+                                        "id": 1678204.0
+                                    },
+                                    {
+                                        "label": "Omotesando Hills",
+                                        "id": 1658477.0
+                                    },
+                                    {
+                                        "label": "Государственный сад Shinjuku Gyoen Garden",
+                                        "id": 1658485.0
+                                    },
+                                    {
+                                        "label": "Государственный спортивный комплекс Yoyogi National Gymnasium",
+                                        "id": 1658537.0
+                                    },
+                                    {
+                                        "label": "Международный выставочный центр Tokyo Big Sight",
+                                        "id": 1658495.0
+                                    },
+                                    {
+                                        "label": "Небесное дерево Токио (телевизионная башня)",
+                                        "id": 1721082.0
+                                    },
+                                    {
+                                        "label": "Перекресток Сибуя",
+                                        "id": 1753675.0
+                                    },
+                                    {
+                                        "label": "Развлекательный центр La Qua Tokyo Dome City",
+                                        "id": 10678933.0
+                                    },
+                                    {
+                                        "label": "Рынок Тоёсу",
+                                        "id": 1658528.0
+                                    },
+                                    {
+                                        "label": "Спортивный комплекс Tokyo Dome",
+                                        "id": 1658492.0
+                                    },
+                                    {
+                                        "label": "Токийская башня",
+                                        "id": 1658522.0
+                                    },
+                                    {
+                                        "label": "Токийский государственный олимпийский стадион",
+                                        "id": 1658512.0
+                                    },
+                                    {
+                                        "label": "Токийский международный форум",
+                                        "id": 1679562.0
+                                    },
+                                    {
+                                        "label": "Торговый центр Shibuya Hikarie",
+                                        "id": 10601477.0
+                                    },
+                                    {
+                                        "label": "Университет Waseda University",
+                                        "id": 1679568.0
+                                    },
+                                    {
+                                        "label": "Храм Сэнсодзи",
+                                        "id": 1658484.0
+                                    },
+                                    {
+                                        "label": "Часовня Meiji Jingu Shrine",
+                                        "id": 1658467.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Вокзалы и станции",
+                                "itemMeta": "stations",
+                                "choices": [
+                                    {
+                                        "label": "Конечная станция Haneda Airport International",
+                                        "id": 1726082.0
+                                    },
+                                    {
+                                        "label": "Станция Akasaka-Mitsuke",
+                                        "id": 1717500.0
+                                    },
+                                    {
+                                        "label": "Станция Ginza",
+                                        "id": 1717366.0
+                                    },
+                                    {
+                                        "label": "Станция Keisei-Ueno",
+                                        "id": 1717417.0
+                                    },
+                                    {
+                                        "label": "Станция Narashino Kaihin-Makuhari",
+                                        "id": 1727609.0
+                                    },
+                                    {
+                                        "label": "Станция Shibuya",
+                                        "id": 1717496.0
+                                    },
+                                    {
+                                        "label": "Станция Shinjuku-nishiguchi",
+                                        "id": 1717614.0
+                                    },
+                                    {
+                                        "label": "Станция Tokyo",
+                                        "id": 1717065.0
+                                    },
+                                    {
+                                        "label": "Станция Tokyo Disneyland",
+                                        "id": 1727993.0
+                                    },
+                                    {
+                                        "label": "Станция Tokyo DisneySea",
+                                        "id": 1727994.0
+                                    },
+                                    {
+                                        "label": "Станция Urayasu Maihama",
+                                        "id": 1727586.0
+                                    },
+                                    {
+                                        "label": "Станция Готанда",
+                                        "id": 1717286.0
+                                    },
+                                    {
+                                        "label": "Станция Икэбукуро",
+                                        "id": 1717325.0
+                                    },
+                                    {
+                                        "label": "Станция Кинсите",
+                                        "id": 1717164.0
+                                    },
+                                    {
+                                        "label": "Станция Кэйкю-Камата",
+                                        "id": 1726185.0
+                                    },
+                                    {
+                                        "label": "Станция Ниппори",
+                                        "id": 1717198.0
+                                    },
+                                    {
+                                        "label": "Станция Оимати",
+                                        "id": 1717215.0
+                                    },
+                                    {
+                                        "label": "Станция Синагава",
+                                        "id": 1717214.0
+                                    },
+                                    {
+                                        "label": "Станция Синдзюку",
+                                        "id": 1717096.0
+                                    },
+                                    {
+                                        "label": "Станция Уэно",
+                                        "id": 1717201.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Аэропорты",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Токио (HND-Ханэда)",
+                                        "id": 1645880.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Рейтинг гостей",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Рейтинг гостей",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Цена",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Цена (по возрастанию)",
+                        "choices": [
+                            {
+                                "label": "Цена (по убыванию)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Цена (по возрастанию)",
+                                "value": "PRICE",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 726784.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:726784:UNKNOWN:UNKNOWN",
+                            "q-destination": "Токио, Токио (префектура), Япония",
+                            "destination-id": "726784"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "Центр города",
+                            "value": "726784"
+                        },
+                        {
+                            "label": "Disneyland® в Токио",
+                            "value": "1658489"
+                        },
+                        {
+                            "label": "Станция Tokyo",
+                            "value": "1717065"
+                        },
+                        {
+                            "label": "Спортивный комплекс Tokyo Dome",
+                            "value": "1658492"
+                        },
+                        {
+                            "label": "Станция Синдзюку",
+                            "value": "1717096"
+                        },
+                        {
+                            "label": "Токио (HND-Ханэда)",
+                            "value": "1645880"
+                        },
+                        {
+                            "label": "DisneySea® в Токио",
+                            "value": "1658491"
+                        },
+                        {
+                            "label": "Makuhari",
+                            "value": "1678204"
+                        },
+                        {
+                            "label": "Станция Уэно",
+                            "value": "1717201"
+                        },
+                        {
+                            "label": "Токийская башня",
+                            "value": "1658522"
+                        },
+                        {
+                            "label": "Станция Синагава",
+                            "value": "1717214"
+                        },
+                        {
+                            "label": "Токийский государственный олимпийский стадион",
+                            "value": "1658512"
+                        },
+                        {
+                            "label": "Конечная станция Haneda Airport International",
+                            "value": "1726082"
+                        },
+                        {
+                            "label": "Перекресток Сибуя",
+                            "value": "1753675"
+                        },
+                        {
+                            "label": "Станция Tokyo Disneyland",
+                            "value": "1727993"
+                        },
+                        {
+                            "label": "Небесное дерево Токио (телевизионная башня)",
+                            "value": "1721082"
+                        },
+                        {
+                            "label": "Международный выставочный центр Tokyo Big Sight",
+                            "value": "1658495"
+                        },
+                        {
+                            "label": "Станция Keisei-Ueno",
+                            "value": "1717417"
+                        },
+                        {
+                            "label": "Станция Ниппори",
+                            "value": "1717198"
+                        },
+                        {
+                            "label": "Университет Waseda University",
+                            "value": "1679568"
+                        }
+                    ],
+                    "distance": []
+                },
+                "neighbourhood": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Shinjuku",
+                            "value": "1645686"
+                        },
+                        {
+                            "label": "Маихама",
+                            "value": "1713610"
+                        },
+                        {
+                            "label": "Ueno",
+                            "value": "1645696"
+                        },
+                        {
+                            "label": "Shibuya",
+                            "value": "1645685"
+                        },
+                        {
+                            "label": "Shinagawa",
+                            "value": "1645684"
+                        },
+                        {
+                            "label": "Ginza",
+                            "value": "1645689"
+                        },
+                        {
+                            "label": "Asakusa",
+                            "value": "1645688"
+                        },
+                        {
+                            "label": "Ikebukuro",
+                            "value": "1645691"
+                        },
+                        {
+                            "label": "Nihonbashi",
+                            "value": "1645692"
+                        },
+                        {
+                            "label": "Akasaka",
+                            "value": "1645687"
+                        },
+                        {
+                            "label": "Roppongi",
+                            "value": "1645694"
+                        },
+                        {
+                            "label": "Шинбаси (район)",
+                            "value": "1738055"
+                        },
+                        {
+                            "label": "Камата",
+                            "value": "1738102"
+                        },
+                        {
+                            "label": "Ханэда",
+                            "value": "11045614"
+                        },
+                        {
+                            "label": "Хамамацутё",
+                            "value": "1808412"
+                        },
+                        {
+                            "label": "Канда",
+                            "value": "10873509"
+                        },
+                        {
+                            "label": "Ж/д-станция Суйдобаси",
+                            "value": "1738108"
+                        },
+                        {
+                            "label": "Эбису",
+                            "value": "1727501"
+                        },
+                        {
+                            "label": "Минато",
+                            "value": "1689761"
+                        },
+                        {
+                            "label": "Цукидзи",
+                            "value": "1727508"
+                        },
+                        {
+                            "label": "Ариакэ",
+                            "value": "11117814"
+                        },
+                        {
+                            "label": "Харадзюку",
+                            "value": "1725130"
+                        },
+                        {
+                            "label": "Сиодоме",
+                            "value": "1738054"
+                        },
+                        {
+                            "label": "Iidabashi",
+                            "value": "1645690"
+                        },
+                        {
+                            "label": "Мэгуро",
+                            "value": "1689760"
+                        },
+                        {
+                            "label": "Тамати",
+                            "value": "1808488"
+                        },
+                        {
+                            "label": "Асакусабаси",
+                            "value": "11045600"
+                        },
+                        {
+                            "label": "Тоёесу",
+                            "value": "11114247"
+                        },
+                        {
+                            "label": "Нисисиндзюку",
+                            "value": "10873559"
+                        },
+                        {
+                            "label": "Юракутё",
+                            "value": "1808413"
+                        },
+                        {
+                            "label": "Акабане",
+                            "value": "1812747"
+                        },
+                        {
+                            "label": "Очаномису (район)",
+                            "value": "1738104"
+                        },
+                        {
+                            "label": "Нисикасай",
+                            "value": "11423264"
+                        },
+                        {
+                            "label": "Рёгоку",
+                            "value": "1738109"
+                        },
+                        {
+                            "label": "Итабаши",
+                            "value": "1752595"
+                        },
+                        {
+                            "label": "Ёцуя",
+                            "value": "1808417"
+                        },
+                        {
+                            "label": "Тиёда",
+                            "value": "1727499"
+                        },
+                        {
+                            "label": "Дзимботё",
+                            "value": "10873570"
+                        },
+                        {
+                            "label": "Накано",
+                            "value": "1727503"
+                        },
+                        {
+                            "label": "Осаки",
+                            "value": "1808415"
+                        },
+                        {
+                            "label": "Киобаси",
+                            "value": "11045610"
+                        },
+                        {
+                            "label": "Хигасиготанда",
+                            "value": "11117821"
+                        },
+                        {
+                            "label": "Нихомбаси-Нингётё",
+                            "value": "11045603"
+                        },
+                        {
+                            "label": "Осиагэ",
+                            "value": "11045590"
+                        },
+                        {
+                            "label": "Йоёеги",
+                            "value": "11425955"
+                        },
+                        {
+                            "label": "Ниси-Ниппори",
+                            "value": "11424136"
+                        },
+                        {
+                            "label": "Район Синдзюку-Ни-Тёмэ",
+                            "value": "10928457"
+                        },
+                        {
+                            "label": "Такаданобаба",
+                            "value": "1808414"
+                        },
+                        {
+                            "label": "Симокитадзава",
+                            "value": "1812714"
+                        },
+                        {
+                            "label": "Отэмати",
+                            "value": "1808416"
+                        },
+                        {
+                            "label": "Кораку-эн",
+                            "value": "10873560"
+                        },
+                        {
+                            "label": "Аояма",
+                            "value": "1738101"
+                        },
+                        {
+                            "label": "Тайто",
+                            "value": "1727507"
+                        },
+                        {
+                            "label": "Кото",
+                            "value": "1689769"
+                        },
+                        {
+                            "label": "Сэтагая",
+                            "value": "1727505"
+                        },
+                        {
+                            "label": "Сумида",
+                            "value": "1689762"
+                        },
+                        {
+                            "label": "Тюо",
+                            "value": "1727500"
+                        },
+                        {
+                            "label": "Акихабара",
+                            "value": "11425201"
+                        },
+                        {
+                            "label": "Хигаси-Икэбукуро",
+                            "value": "11045592"
+                        },
+                        {
+                            "label": "Яэсу",
+                            "value": "11113898"
+                        },
+                        {
+                            "label": "Дайканъяматё",
+                            "value": "10601475"
+                        },
+                        {
+                            "label": "Коэндзикита",
+                            "value": "10783380"
+                        },
+                        {
+                            "label": "Окубо",
+                            "value": "1812402"
+                        },
+                        {
+                            "label": "Мондзеннакатёе",
+                            "value": "11114193"
+                        },
+                        {
+                            "label": "Медзиро",
+                            "value": "11113893"
+                        },
+                        {
+                            "label": "Син-Коива",
+                            "value": "1738110"
+                        },
+                        {
+                            "label": "Камэйдо",
+                            "value": "11045608"
+                        },
+                        {
+                            "label": "Бункё",
+                            "value": "1727509"
+                        },
+                        {
+                            "label": "Тосима",
+                            "value": "1689763"
+                        },
+                        {
+                            "label": "Shiba",
+                            "value": "1645695"
+                        },
+                        {
+                            "label": "Нэрима",
+                            "value": "1727495"
+                        },
+                        {
+                            "label": "Эдогава",
+                            "value": "1727496"
+                        },
+                        {
+                            "label": "Китаоцука",
+                            "value": "11114251"
+                        },
+                        {
+                            "label": "Кагурадзака",
+                            "value": "1812766"
+                        },
+                        {
+                            "label": "Нагатачо",
+                            "value": "1738097"
+                        },
+                        {
+                            "label": "Минамисендзю",
+                            "value": "11117824"
+                        },
+                        {
+                            "label": "Одзи",
+                            "value": "11045611"
+                        },
+                        {
+                            "label": "Джиугаока",
+                            "value": "10779350"
+                        },
+                        {
+                            "label": "Адзабу-Дзюбан",
+                            "value": "1738056"
+                        },
+                        {
+                            "label": "Хигасисинагава",
+                            "value": "11114250"
+                        },
+                        {
+                            "label": "Кацусика",
+                            "value": "1689768"
+                        },
+                        {
+                            "label": "Ота",
+                            "value": "1727504"
+                        },
+                        {
+                            "label": "Сугинами",
+                            "value": "1712687"
+                        },
+                        {
+                            "label": "Кита",
+                            "value": "1727502"
+                        },
+                        {
+                            "label": "Кабукичо",
+                            "value": "1708182"
+                        },
+                        {
+                            "label": "Маруноути",
+                            "value": "1689719"
+                        },
+                        {
+                            "label": "Аракава",
+                            "value": "1727497"
+                        },
+                        {
+                            "label": "Ворота Каминаримон",
+                            "value": "11423479"
+                        },
+                        {
+                            "label": "Киойтё",
+                            "value": "11113855"
+                        },
+                        {
+                            "label": "Хатагая",
+                            "value": "11114209"
+                        },
+                        {
+                            "label": "Фунабори",
+                            "value": "11117825"
+                        },
+                        {
+                            "label": "Таканава",
+                            "value": "1689720"
+                        },
+                        {
+                            "label": "Адачи",
+                            "value": "1727498"
+                        },
+                        {
+                            "label": "Нихомбаси-Муромати",
+                            "value": "11045683"
+                        },
+                        {
+                            "label": "Такацу",
+                            "value": "1689724"
+                        },
+                        {
+                            "label": "Догендзака",
+                            "value": "1812794"
+                        },
+                        {
+                            "label": "Асагая-Кита",
+                            "value": "11045612"
+                        },
+                        {
+                            "label": "Ирия",
+                            "value": "11117820"
+                        },
+                        {
+                            "label": "Дзюдзе",
+                            "value": "10580150"
+                        },
+                        {
+                            "label": "Нихонбасихоридометё",
+                            "value": "11113906"
+                        },
+                        {
+                            "label": "Нихонбаси-Накадзу",
+                            "value": "10597113"
+                        },
+                        {
+                            "label": "Такамацу",
+                            "value": "11045607"
+                        },
+                        {
+                            "label": "Титосе",
+                            "value": "11113853"
+                        },
+                        {
+                            "label": "Тамагава",
+                            "value": "10779725"
+                        },
+                        {
+                            "label": "Янагибаси",
+                            "value": "10593794"
+                        },
+                        {
+                            "label": "Икегами",
+                            "value": "11113910"
+                        },
+                        {
+                            "label": "Янака",
+                            "value": "11114270"
+                        },
+                        {
+                            "label": "Комагата",
+                            "value": "11117815"
+                        },
+                        {
+                            "label": "Симокоданака",
+                            "value": "10581075"
+                        },
+                        {
+                            "label": "Юменосима",
+                            "value": "10791656"
+                        },
+                        {
+                            "label": "Цукудадзима",
+                            "value": "10597120"
+                        },
+                        {
+                            "label": "Тономати",
+                            "value": "10597118"
+                        },
+                        {
+                            "label": "Канда-Мисаките",
+                            "value": "12489735"
+                        },
+                        {
+                            "label": "Shinsencho",
+                            "value": "12514425"
+                        },
+                        {
+                            "label": "Хиракаватё",
+                            "value": "12495387"
+                        },
+                        {
+                            "label": "Sakuragaokacho",
+                            "value": "12489731"
+                        },
+                        {
+                            "label": "Kanda Sudacho",
+                            "value": "12499622"
+                        },
+                        {
+                            "label": "Shinkawa",
+                            "value": "12496253"
+                        },
+                        {
+                            "label": "Higashiogu",
+                            "value": "12492748"
+                        },
+                        {
+                            "label": "Киба",
+                            "value": "12489548"
+                        },
+                        {
+                            "label": "Nakajujo",
+                            "value": "12483185"
+                        },
+                        {
+                            "label": "Ikejiri",
+                            "value": "12496158"
+                        },
+                        {
+                            "label": "Oyamacho",
+                            "value": "12483213"
+                        },
+                        {
+                            "label": "Udagawacho",
+                            "value": "12476865"
+                        },
+                        {
+                            "label": "Higashikanda",
+                            "value": "12492779"
+                        },
+                        {
+                            "label": "Nishishinkoiwa",
+                            "value": "12492790"
+                        },
+                        {
+                            "label": "Uchisaiwaicho",
+                            "value": "12477745"
+                        },
+                        {
+                            "label": "Kudankita",
+                            "value": "12476834"
+                        },
+                        {
+                            "label": "Hyakunincho",
+                            "value": "12499406"
+                        },
+                        {
+                            "label": "Motoakasaka",
+                            "value": "12480691"
+                        },
+                        {
+                            "label": "Honmachi",
+                            "value": "12483197"
+                        },
+                        {
+                            "label": "Нисиадзабу",
+                            "value": "12480590"
+                        },
+                        {
+                            "label": "Хаттёбори",
+                            "value": "12499332"
+                        },
+                        {
+                            "label": "Higashitateishi",
+                            "value": "12492758"
+                        },
+                        {
+                            "label": "Nihonbashikabutocho",
+                            "value": "12492791"
+                        },
+                        {
+                            "label": "Numabukuro",
+                            "value": "12476848"
+                        },
+                        {
+                            "label": "Нисиасакуса",
+                            "value": "12489463"
+                        },
+                        {
+                            "label": "Omorinishi",
+                            "value": "12476841"
+                        },
+                        {
+                            "label": "Kanda Higashimatsushitacho",
+                            "value": "12480713"
+                        },
+                        {
+                            "label": "Minamikasai",
+                            "value": "12492789"
+                        },
+                        {
+                            "label": "Kaigan",
+                            "value": "12514080"
+                        },
+                        {
+                            "label": "Сиоми",
+                            "value": "12476688"
+                        },
+                        {
+                            "label": "Hongo",
+                            "value": "12486380"
+                        },
+                        {
+                            "label": "Сироканэдай",
+                            "value": "12486622"
+                        },
+                        {
+                            "label": "Нисивасэда",
+                            "value": "12480589"
+                        },
+                        {
+                            "label": "Сугамо",
+                            "value": "12489555"
+                        },
+                        {
+                            "label": "Sekiguchi",
+                            "value": "12483210"
+                        },
+                        {
+                            "label": "Honhaneda",
+                            "value": "12489741"
+                        },
+                        {
+                            "label": "Higashiazabu",
+                            "value": "12476846"
+                        },
+                        {
+                            "label": "Kamiogi",
+                            "value": "12483182"
+                        },
+                        {
+                            "label": "Ogibashi",
+                            "value": "12483206"
+                        },
+                        {
+                            "label": "Horikiri",
+                            "value": "12486371"
+                        },
+                        {
+                            "label": "Kitakasai",
+                            "value": "12489725"
+                        },
+                        {
+                            "label": "Kanda Konyacho",
+                            "value": "12499478"
+                        },
+                        {
+                            "label": "Kamiuma",
+                            "value": "12483189"
+                        },
+                        {
+                            "label": "Shimomeguro",
+                            "value": "12499480"
+                        },
+                        {
+                            "label": "Kamezawa",
+                            "value": "12477756"
+                        },
+                        {
+                            "label": "Motoyoyogicho",
+                            "value": "12492788"
+                        },
+                        {
+                            "label": "Aobadai",
+                            "value": "12477731"
+                        },
+                        {
+                            "label": "Kanda Nishikicho",
+                            "value": "12480719"
+                        },
+                        {
+                            "label": "Kiyosumi",
+                            "value": "12499483"
+                        },
+                        {
+                            "label": "Nezu",
+                            "value": "12483088"
+                        },
+                        {
+                            "label": "Toyotamakita",
+                            "value": "12499485"
+                        },
+                        {
+                            "label": "Tateishi",
+                            "value": "12476843"
+                        },
+                        {
+                            "label": "Samoncho",
+                            "value": "12476871"
+                        },
+                        {
+                            "label": "Ojima",
+                            "value": "12499479"
+                        },
+                        {
+                            "label": "Horinouchi",
+                            "value": "12486356"
+                        },
+                        {
+                            "label": "Yutenji",
+                            "value": "12496273"
+                        },
+                        {
+                            "label": "Minamioi",
+                            "value": "12476858"
+                        },
+                        {
+                            "label": "Kanda Nishifukudacho",
+                            "value": "12499471"
+                        },
+                        {
+                            "label": "Кодзимати",
+                            "value": "12522853"
+                        },
+                        {
+                            "label": "Нисиготанда",
+                            "value": "12492828"
+                        },
+                        {
+                            "label": "Сангэндзяя",
+                            "value": "12482995"
+                        },
+                        {
+                            "label": "Юсима",
+                            "value": "12492608"
+                        },
+                        {
+                            "label": "Минамиаояма",
+                            "value": "12482997"
+                        },
+                        {
+                            "label": "Azumabashi",
+                            "value": "12522499"
+                        },
+                        {
+                            "label": "Тораномон",
+                            "value": "12489455"
+                        },
+                        {
+                            "label": "Канда-Myamacho",
+                            "value": "12499481"
+                        },
+                        {
+                            "label": "Китааояма",
+                            "value": "12480622"
+                        },
+                        {
+                            "label": "Shibadaimon",
+                            "value": "12499417"
+                        },
+                        {
+                            "label": "Район Накахара",
+                            "value": "12532340"
+                        },
+                        {
+                            "label": "Iwamotocho",
+                            "value": "12476847"
+                        },
+                        {
+                            "label": "Киесуми-Сиракава",
+                            "value": "12474942"
+                        },
+                        {
+                            "label": "Higashinippori",
+                            "value": "12528308"
+                        },
+                        {
+                            "label": "Morishita",
+                            "value": "12486374"
+                        },
+                        {
+                            "label": "Kajicho",
+                            "value": "12480718"
+                        },
+                        {
+                            "label": "Higashishinkoiwa",
+                            "value": "12492761"
+                        },
+                        {
+                            "label": "Umezato",
+                            "value": "12492753"
+                        },
+                        {
+                            "label": "Киекава",
+                            "value": "12496621"
+                        },
+                        {
+                            "label": "Kamiikebukuro",
+                            "value": "12489740"
+                        },
+                        {
+                            "label": "Ohashi",
+                            "value": "12496270"
+                        },
+                        {
+                            "label": "Нисиикэбукуро",
+                            "value": "12489457"
+                        },
+                        {
+                            "label": "Megurohoncho",
+                            "value": "12514455"
+                        },
+                        {
+                            "label": "Higashikasai",
+                            "value": "12499461"
+                        },
+                        {
+                            "label": "Kanda Sakumacho",
+                            "value": "12476877"
+                        },
+                        {
+                            "label": "Курамаэ",
+                            "value": "12480626"
+                        },
+                        {
+                            "label": "Sendagi",
+                            "value": "12483201"
+                        },
+                        {
+                            "label": "Sasazuka",
+                            "value": "12480697"
+                        },
+                        {
+                            "label": "Uchikanda",
+                            "value": "12489675"
+                        },
+                        {
+                            "label": "Koenjiminami",
+                            "value": "12492755"
+                        },
+                        {
+                            "label": "Nishikanda",
+                            "value": "12499482"
+                        },
+                        {
+                            "label": "Kanda Awajicho",
+                            "value": "12489677"
+                        },
+                        {
+                            "label": "Higashiyotsugi",
+                            "value": "12496264"
+                        },
+                        {
+                            "label": "Hachiyamacho",
+                            "value": "12489730"
+                        },
+                        {
+                            "label": "Daiba",
+                            "value": "12477729"
+                        },
+                        {
+                            "label": "Асагаяминами",
+                            "value": "12499348"
+                        },
+                        {
+                            "label": "Honan",
+                            "value": "12499405"
+                        },
+                        {
+                            "label": "Kitakoiwa",
+                            "value": "12480709"
+                        },
+                        {
+                            "label": "Хигаси",
+                            "value": "12486582"
+                        },
+                        {
+                            "label": "Shibamata",
+                            "value": "12499416"
+                        },
+                        {
+                            "label": "Kamiyamacho",
+                            "value": "12483212"
+                        },
+                        {
+                            "label": "Nishishinbashi",
+                            "value": "12489670"
+                        },
+                        {
+                            "label": "Kanda Ogawamachi",
+                            "value": "12476852"
+                        },
+                        {
+                            "label": "Hayabusacho",
+                            "value": "12477733"
+                        },
+                        {
+                            "label": "Минамиоцука",
+                            "value": "12489478"
+                        },
+                        {
+                            "label": "Kanda Surugadai",
+                            "value": "12496163"
+                        },
+                        {
+                            "label": "Kanda Neribeicho",
+                            "value": "12480707"
+                        },
+                        {
+                            "label": "Haginaka",
+                            "value": "12489671"
+                        },
+                        {
+                            "label": "Mita",
+                            "value": "12483096"
+                        },
+                        {
+                            "label": "Ebisuminami",
+                            "value": "12489674"
+                        },
+                        {
+                            "label": "Nakakasai",
+                            "value": "12489666"
+                        },
+                        {
+                            "label": "Minamisuna",
+                            "value": "12492752"
+                        },
+                        {
+                            "label": "Сироканэ",
+                            "value": "12489479"
+                        },
+                        {
+                            "label": "Огикубо",
+                            "value": "12489456"
+                        },
+                        {
+                            "label": "Хигасинихонбаси",
+                            "value": "12480625"
+                        },
+                        {
+                            "label": "Kamimeguro",
+                            "value": "12476861"
+                        },
+                        {
+                            "label": "Koishikawa",
+                            "value": "12499407"
+                        },
+                        {
+                            "label": "Harumi",
+                            "value": "12499473"
+                        },
+                        {
+                            "label": "Akashicho",
+                            "value": "12489665"
+                        },
+                        {
+                            "label": "Nishiogikita",
+                            "value": "12486373"
+                        },
+                        {
+                            "label": "Цуданума",
+                            "value": "12476673"
+                        },
+                        {
+                            "label": "Канда-Саругакуте",
+                            "value": "12499472"
+                        },
+                        {
+                            "label": "Minamiazabu",
+                            "value": "12523134"
+                        },
+                        {
+                            "label": "Дзингумаэ",
+                            "value": "12499339"
+                        },
+                        {
+                            "label": "Arakicho",
+                            "value": "12492746"
+                        },
+                        {
+                            "label": "Кинси",
+                            "value": "12489553"
+                        },
+                        {
+                            "label": "Сэндагая",
+                            "value": "12480637"
+                        },
+                        {
+                            "label": "Kachidoki",
+                            "value": "12483217"
+                        },
+                        {
+                            "label": "Irifune",
+                            "value": "12499464"
+                        },
+                        {
+                            "label": "Хигасиуэно",
+                            "value": "12483231"
+                        },
+                        {
+                            "label": "Kasuga",
+                            "value": "12483188"
+                        },
+                        {
+                            "label": "Higashikoiwa",
+                            "value": "12483196"
+                        }
+                    ]
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Апарт-отели",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Виллы",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Гостевые дома",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Гостиницы",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Дома для отпуска",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Домики",
+                            "value": "9"
+                        },
+                        {
+                            "label": "Капсульные отели",
+                            "value": "43"
+                        },
+                        {
+                            "label": "Квартиры ",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Коттеджи",
+                            "value": "11"
+                        },
+                        {
+                            "label": "Курорты",
+                            "value": "3"
+                        },
+                        {
+                            "label": "Мини-отели",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Мотели",
+                            "value": "7"
+                        },
+                        {
+                            "label": "Отели",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Рёканы",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Хостелы",
+                            "value": "12"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "В цену включен Wi-Fi",
+                            "value": "527"
+                        },
+                        {
+                            "label": "Для некурящих",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Завтрак включен",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Казино",
+                            "value": "2112"
+                        },
+                        {
+                            "label": "Круглосуточная стойка регистрации",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Парковка",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Пункт зарядки электромобилей",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Разрешено проживание с домашними животными",
+                            "value": "64"
+                        },
+                        {
+                            "label": "С баром",
+                            "value": "515"
+                        },
+                        {
+                            "label": "С бассейном",
+                            "value": "128"
+                        },
+                        {
+                            "label": "С бизнес-услугами",
+                            "value": "519"
+                        },
+                        {
+                            "label": "С ванной в номере",
+                            "value": "517"
+                        },
+                        {
+                            "label": "С детскими кроватками",
+                            "value": "525"
+                        },
+                        {
+                            "label": "С доступом в интернет",
+                            "value": "8"
+                        },
+                        {
+                            "label": "С зонами для курения",
+                            "value": "537"
+                        },
+                        {
+                            "label": "С конференц-залами",
+                            "value": "1"
+                        },
+                        {
+                            "label": "С кухней",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Со смежными номерами",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Со спа-салоном",
+                            "value": "539"
+                        },
+                        {
+                            "label": "Со спортзалом",
+                            "value": "2"
+                        },
+                        {
+                            "label": "С присмотром за детьми",
+                            "value": "521"
+                        },
+                        {
+                            "label": "С рестораном",
+                            "value": "256"
+                        },
+                        {
+                            "label": "С трансфером до аэропорта",
+                            "value": "513"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Безбарьерный доступ",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Безбарьерный душ",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Ванная для маломобильных гостей",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Номера для маломобильных гостей",
+                            "value": "541"
+                        },
+                        {
+                            "label": "Оборудование для слабослышащих",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Парковка, приспособленная для маломобильных гостей",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "Удобства в номерах для маломобильных гостей",
+                            "value": "1048576"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Бутик",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Для гольфа",
+                            "value": "26"
+                        },
+                        {
+                            "label": "Для деловых людей",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Для семейного отдыха",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Для шопинга",
+                            "value": "17"
+                        },
+                        {
+                            "label": "Исторические",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Класса «люкс»",
+                            "value": "15"
+                        },
+                        {
+                            "label": "На термальных источниках",
+                            "value": "22"
+                        },
+                        {
+                            "label": "Обслуживание гостей ЛГБТК",
+                            "value": "21"
+                        },
+                        {
+                            "label": "С казино",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Спа",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Стоимость (общая)",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com™ Rewards",
+                    "items": [
+                        {
+                            "label": "Получите штампы",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Используйте бонусные* сутки",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=726784&hotelIds=1248633536,1029498464,623812864,1273583392,931085536,471850,430877,952635936,621357408,1619294272,1023949376,401828,700393088,1477082784,698346,404841,2128203072,328309,256825,1123981504,2089714560,468235,641509216,672851040,403867&adults=2&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=5b7fbb1d-fd67-476d-bc4b-21ad07a47058&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=ru.hotels.com&userIP=2603:8080:9101:61b8:d0e6:987:3206:cad2&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": " ,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;38988548,LOCAL;32140577,MULTISOURCE;19462902",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "ee1c899a-9143-4658-bf96-9a07af920527",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar2": "Токио, Токио (префектура), Япония",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "ru.hotels.com",
+                    "s.eVar6": "726784",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "5b7fbb1d-fd67-476d-bc4b-21ad07a47058",
+                    "s.eVar9": "Price - low to high",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar26": "US:TX:ELPASO:765",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "3117",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "2917",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result without dates",
+                    "s.eVar34": "H1871:007.002,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:050.000,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7870:000.000,M8336:000.000,M8347:019.002,M8692:000.000,M8698:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9549:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10268:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M9215:001.001",
+                    "s.eVar13": "389273",
+                    "s.events": "event324,event319,event320",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389273",
+                    "s.prop15": "",
+                    "s.prop3": "Токио, Токио (префектура), Япония",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-east-1.unknown",
+                    "s.prop2": "Price - low to high"
+                }
+            }
+        }
+    }
+}

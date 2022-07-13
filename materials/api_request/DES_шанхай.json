@@ -1,0 +1,210 @@
+{
+    "term": "шанхай",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "2ebc14dbf6824054b373bf3a29d5f82c",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "3145",
+                    "destinationId": "220308",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.2357,
+                    "longitude": 121.47,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Шанхай"
+                },
+                {
+                    "geoId": "6049081",
+                    "destinationId": "1667233",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.09124049628515,
+                    "longitude": 121.75738909776499,
+                    "searchDetail": null,
+                    "caption": "Пудонг, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Пудонг"
+                },
+                {
+                    "geoId": "6049069",
+                    "destinationId": "1667325",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.22167324995053,
+                    "longitude": 121.48675535159845,
+                    "searchDetail": null,
+                    "caption": "Хуанпу, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Хуанпу"
+                },
+                {
+                    "geoId": "6158579",
+                    "destinationId": "1713128",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.17631332854709,
+                    "longitude": 121.37770142738553,
+                    "searchDetail": null,
+                    "caption": "Хунцяо, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Хунцяо"
+                },
+                {
+                    "geoId": "695",
+                    "destinationId": "200348",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.408197736947443,
+                    "longitude": 121.40989818323436,
+                    "searchDetail": null,
+                    "caption": "Баошань, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Баошань"
+                },
+                {
+                    "geoId": "6049064",
+                    "destinationId": "1667230",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.207352312457562,
+                    "longitude": 121.38072268861464,
+                    "searchDetail": null,
+                    "caption": "Changning, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Changning"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "27072329",
+                    "destinationId": "867314528",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.230375,
+                    "longitude": 121.4737,
+                    "searchDetail": null,
+                    "caption": "YuJieLong Home, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "YuJieLong Home"
+                },
+                {
+                    "geoId": "5568660",
+                    "destinationId": "423504",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 46.594197,
+                    "longitude": 30.805137,
+                    "searchDetail": null,
+                    "caption": "Отель «<span class='highlighted'>Шанхай</span>-Блюз», Одесса, Одесская область, Украина",
+                    "name": "Отель «Шанхай-Блюз»"
+                },
+                {
+                    "geoId": "3296091",
+                    "destinationId": "339426",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.21277,
+                    "longitude": 121.54575,
+                    "searchDetail": null,
+                    "caption": "Dorsett Shanghai, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Dorsett Shanghai"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "553248623282066774",
+                    "destinationId": "10691481",
+                    "landmarkCityDestinationId": "605659",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 22.316054428341904,
+                    "longitude": 114.16874197008367,
+                    "searchDetail": null,
+                    "caption": "Улица <span class='highlighted'>Шанхай</span>-стрит, Коулун, САР Гонконг",
+                    "name": "Улица Шанхай-стрит"
+                },
+                {
+                    "geoId": "6125696",
+                    "destinationId": "1687791",
+                    "landmarkCityDestinationId": "220308",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.208961,
+                    "longitude": 121.564735,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Шанхай</span>ский новый международный выставочный центр, Шанхай, Китай",
+                    "name": "Шанхайский новый международный выставочный центр"
+                },
+                {
+                    "geoId": "6049917",
+                    "destinationId": "1706857",
+                    "landmarkCityDestinationId": "220308",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.209813,
+                    "longitude": 121.469401,
+                    "searchDetail": null,
+                    "caption": "Бывшая французская концессия, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Бывшая французская концессия"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "6168575",
+                    "destinationId": "1721453",
+                    "landmarkCityDestinationId": null,
+                    "type": "METRO_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.235598,
+                    "longitude": 121.469278,
+                    "searchDetail": null,
+                    "caption": "Станция People's Square, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Станция People's Square"
+                },
+                {
+                    "geoId": "6168645",
+                    "destinationId": "1721488",
+                    "landmarkCityDestinationId": null,
+                    "type": "METRO_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.205616,
+                    "longitude": 121.554008,
+                    "searchDetail": null,
+                    "caption": "Станция Longyang Road, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Станция Longyang Road"
+                },
+                {
+                    "geoId": "6169184",
+                    "destinationId": "1721758",
+                    "landmarkCityDestinationId": null,
+                    "type": "METRO_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 31.203856,
+                    "longitude": 121.430592,
+                    "searchDetail": null,
+                    "caption": "Станция Jiao Tong University, <span class='highlighted'>Шанхай</span>, Китай",
+                    "name": "Станция Jiao Tong University"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

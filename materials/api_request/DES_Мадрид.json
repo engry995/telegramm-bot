@@ -1,0 +1,210 @@
+{
+    "term": "Мадрид",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "32c23299c84643d59ef6c404b39e401c",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "2198",
+                    "destinationId": "457987",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.417007,
+                    "longitude": -3.703565,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Мадрид"
+                },
+                {
+                    "geoId": "6282920",
+                    "destinationId": "1778443",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.4760183836143,
+                    "longitude": -3.5749755696528727,
+                    "searchDetail": null,
+                    "caption": "Барахас, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Барахас"
+                },
+                {
+                    "geoId": "6053457",
+                    "destinationId": "1649515",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.3999660155261,
+                    "longitude": -3.682077552203597,
+                    "searchDetail": null,
+                    "caption": "Atocha (район), <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Atocha (район)"
+                },
+                {
+                    "geoId": "553248631822337314",
+                    "destinationId": "10789818",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.417007,
+                    "longitude": -3.703565,
+                    "searchDetail": null,
+                    "caption": "Сентро, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Сентро"
+                },
+                {
+                    "geoId": "6355569",
+                    "destinationId": "1906867",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.41226508689649,
+                    "longitude": -3.694214048056036,
+                    "searchDetail": null,
+                    "caption": "Золотой треугольник искусств, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Золотой треугольник искусств"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "44227514",
+                    "destinationId": "1416280448",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 43.472638,
+                    "longitude": 39.896589,
+                    "searchDetail": null,
+                    "caption": "SeaRent <span class='highlighted'>Мадрид</span> Парк 2, Адлер, Краснодарский край, Россия",
+                    "name": "SeaRent Мадрид Парк 2"
+                },
+                {
+                    "geoId": "486292",
+                    "destinationId": "429979",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.406436,
+                    "longitude": -3.669691,
+                    "searchDetail": null,
+                    "caption": "Hotel Claridge Madrid, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Hotel Claridge Madrid"
+                },
+                {
+                    "geoId": "904839",
+                    "destinationId": "283330",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.42233,
+                    "longitude": -3.711509,
+                    "searchDetail": null,
+                    "caption": "Cason del Tormes, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Cason del Tormes"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6208786",
+                    "destinationId": "1740839",
+                    "landmarkCityDestinationId": "457987",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.46411504897801,
+                    "longitude": -3.608832010163133,
+                    "searchDetail": null,
+                    "caption": "Выставочный центр IFEMA, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Выставочный центр IFEMA"
+                },
+                {
+                    "geoId": "501636",
+                    "destinationId": "1644409",
+                    "landmarkCityDestinationId": "457987",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.453005,
+                    "longitude": -3.688456,
+                    "searchDetail": null,
+                    "caption": "Стадион «Сантьяго Бернабеу», <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Стадион «Сантьяго Бернабеу»"
+                },
+                {
+                    "geoId": "6221074",
+                    "destinationId": "1747136",
+                    "landmarkCityDestinationId": "457987",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.419965,
+                    "longitude": -3.700788,
+                    "searchDetail": null,
+                    "caption": "ул. Гран-Виа, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "ул. Гран-Виа"
+                },
+                {
+                    "geoId": "553248621532488458",
+                    "destinationId": "10605263",
+                    "landmarkCityDestinationId": "457987",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.406907,
+                    "longitude": -3.688933,
+                    "searchDetail": null,
+                    "caption": "Мемориальный комплекс на вокзале Аточа, <span class='highlighted'>Мадрид</span>, Автономное сообщество Мадрид, Испания",
+                    "name": "Мемориальный комплекс на вокзале Аточа"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "4473165",
+                    "destinationId": "439723",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.468064,
+                    "longitude": -3.568577,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Мадрид</span>, Испания (Адольфо Суарес, Мадрид-Барахас)",
+                    "name": "Мадрид (Адольфо Суарес, Мадрид-Барахас)"
+                },
+                {
+                    "geoId": "6344665",
+                    "destinationId": "1810993",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.470761,
+                    "longitude": -3.450214,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Мадрид</span>, Испания (TOJ-Мадрид-Торрехон)",
+                    "name": "Мадрид (TOJ-Мадрид-Торрехон)"
+                },
+                {
+                    "geoId": "6022106",
+                    "destinationId": "1714860",
+                    "landmarkCityDestinationId": null,
+                    "type": "TRAIN_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.471918,
+                    "longitude": -3.681385,
+                    "searchDetail": null,
+                    "caption": "Станция <span class='highlighted'>Мадрид</span>-Чамартин, Мадрид, Автономное сообщество Мадрид, Испания",
+                    "name": "Станция Мадрид-Чамартин"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

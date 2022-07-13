@@ -1,0 +1,210 @@
+{
+    "term": "Мехико",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "da89e4ba88d743d0b134b7b1bfac38e6",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "2265",
+                    "destinationId": "830421",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.432,
+                    "longitude": -99.1344,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Мехико Сити"
+                },
+                {
+                    "geoId": "6051411",
+                    "destinationId": "1648073",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.444885602137013,
+                    "longitude": -99.14030994974588,
+                    "searchDetail": null,
+                    "caption": "Центр города <span class='highlighted'>Мехико</span>, Мехико Сити, Мексика",
+                    "name": "Центр города Мехико"
+                },
+                {
+                    "geoId": "553248633981724253",
+                    "destinationId": "11023493",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.429095290784616,
+                    "longitude": -99.16203311553457,
+                    "searchDetail": null,
+                    "caption": "Реформа, <span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Реформа"
+                },
+                {
+                    "geoId": "179296",
+                    "destinationId": "863425",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.326664191730835,
+                    "longitude": -99.15037443334572,
+                    "searchDetail": null,
+                    "caption": "Кайокан, <span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Кайокан"
+                },
+                {
+                    "geoId": "179291",
+                    "destinationId": "1647977",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.42979473394302,
+                    "longitude": -99.19393279723337,
+                    "searchDetail": null,
+                    "caption": "Поланко, <span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Поланко"
+                },
+                {
+                    "geoId": "6226547",
+                    "destinationId": "1750030",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.39068914755401,
+                    "longitude": -99.17721887827288,
+                    "searchDetail": null,
+                    "caption": "Наполес, <span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Наполес"
+                },
+                {
+                    "geoId": "553248635921598937",
+                    "destinationId": "11421897",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.41828445998778,
+                    "longitude": -99.16241588321145,
+                    "searchDetail": null,
+                    "caption": "Рома-Норте, <span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Рома-Норте"
+                },
+                {
+                    "geoId": "182187",
+                    "destinationId": "1640008",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.686318799918762,
+                    "longitude": -98.87066190815023,
+                    "searchDetail": null,
+                    "caption": "Теотихуакан, Мексика, Эстадо де <span class='highlighted'>Мехико</span>, Мексика",
+                    "name": "Теотихуакан"
+                },
+                {
+                    "geoId": "6277243",
+                    "destinationId": "854602",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.290067611763,
+                    "longitude": -99.64955874521573,
+                    "searchDetail": null,
+                    "caption": "Толука, Мексика, Эстадо де <span class='highlighted'>Мехико</span>, Мексика",
+                    "name": "Толука"
+                },
+                {
+                    "geoId": "553248635640673607",
+                    "destinationId": "11115618",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.36103976587762,
+                    "longitude": -98.946750902123,
+                    "searchDetail": null,
+                    "caption": "Ла-Пас, Мексика, Эстадо де <span class='highlighted'>Мехико</span>, Мексика",
+                    "name": "Ла-Пас"
+                },
+                {
+                    "geoId": "553248635640705415",
+                    "destinationId": "11116208",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.122005,
+                    "longitude": -98.768832,
+                    "searchDetail": null,
+                    "caption": "Амекамека, Мексика, Эстадо де <span class='highlighted'>Мехико</span>, Мексика",
+                    "name": "Амекамека"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "16250123",
+                    "destinationId": "631742",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.43521,
+                    "longitude": -99.16636,
+                    "searchDetail": null,
+                    "caption": "Hotel Black, <span class='highlighted'>Мехико</span> Сити, Мексика",
+                    "name": "Hotel Black"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6113620",
+                    "destinationId": "1674508",
+                    "landmarkCityDestinationId": "1640008",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.690374091407477,
+                    "longitude": -98.84557995043917,
+                    "searchDetail": null,
+                    "caption": "Археологический памятник «Теотиуакан», Теотихуакан, Мексика, Эстадо де <span class='highlighted'>Мехико</span>, Мексика",
+                    "name": "Археологический памятник «Теотиуакан»"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "5784909",
+                    "destinationId": "1636098",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.434563,
+                    "longitude": -99.08498,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Мехико</span>, Федеральный округ, Мексика (MEX-Мехико, международный)",
+                    "name": "Мехико, Федеральный округ (MEX-Мехико, международный)"
+                },
+                {
+                    "geoId": "6032469",
+                    "destinationId": "1648343",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 19.338361,
+                    "longitude": -99.570953,
+                    "searchDetail": null,
+                    "caption": "г. Толука, штат <span class='highlighted'>Мехико</span>, Мексика (TLC-Толука, международный)",
+                    "name": "г. Толука, штат Мехико (TLC-Толука, международный)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

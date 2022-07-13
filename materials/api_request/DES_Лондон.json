@@ -1,0 +1,210 @@
+{
+    "term": "Лондон",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "7af9fec4f3f745dca6048e435df935df",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "2114",
+                    "destinationId": "549499",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.507538,
+                    "longitude": -0.127804,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>, Англия, Великобритания",
+                    "name": "Лондон"
+                },
+                {
+                    "geoId": "800056",
+                    "destinationId": "1649988",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.514521098733205,
+                    "longitude": -0.0924217693961937,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>ский Сити, Лондон, Англия, Великобритания",
+                    "name": "Лондонский Сити"
+                },
+                {
+                    "geoId": "6195474",
+                    "destinationId": "1735370",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.50727123606695,
+                    "longitude": -0.1350796890910579,
+                    "searchDetail": null,
+                    "caption": "Центральный район <span class='highlighted'>Лондон</span>а, Лондон, Англия, Великобритания",
+                    "name": "Центральный район Лондона"
+                },
+                {
+                    "geoId": "800051",
+                    "destinationId": "1762415",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.495138817062426,
+                    "longitude": -0.13973048277012118,
+                    "searchDetail": null,
+                    "caption": "Виктория, <span class='highlighted'>Лондон</span>, Графство Большой Лондон, Англия, Великобритания",
+                    "name": "Виктория"
+                },
+                {
+                    "geoId": "800049",
+                    "destinationId": "1762406",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.51735265982827,
+                    "longitude": -0.1814717760067861,
+                    "searchDetail": null,
+                    "caption": "Паддингтон, <span class='highlighted'>Лондон</span>, Англия, Великобритания",
+                    "name": "Паддингтон"
+                },
+                {
+                    "geoId": "6054501",
+                    "destinationId": "1696003",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.49697796347775,
+                    "longitude": -0.1916682686658811,
+                    "searchDetail": null,
+                    "caption": "Кенсингтон, <span class='highlighted'>Лондон</span>, Англия, Великобритания",
+                    "name": "Кенсингтон"
+                },
+                {
+                    "geoId": "6047476",
+                    "destinationId": "1808499",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.529952514458806,
+                    "longitude": -0.12402339913938097,
+                    "searchDetail": null,
+                    "caption": "Кингс-Кросс Сент-Панкрасс, <span class='highlighted'>Лондон</span>, Англия, Великобритания",
+                    "name": "Кингс-Кросс Сент-Панкрасс"
+                },
+                {
+                    "geoId": "5827",
+                    "destinationId": "1696050",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.474431269453284,
+                    "longitude": 0.055547811784735626,
+                    "searchDetail": null,
+                    "caption": "Гринвич, <span class='highlighted'>Лондон</span>, Англия, Великобритания",
+                    "name": "Гринвич"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "520943",
+                    "destinationId": "119918",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 46.48698,
+                    "longitude": 30.7422,
+                    "searchDetail": null,
+                    "caption": "Гостиница «<span class='highlighted'>Лондон</span>ская», Одесса, Одесская область, Украина",
+                    "name": "Гостиница «Лондонская»"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "507738",
+                    "destinationId": "1410",
+                    "landmarkCityDestinationId": "549499",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.50685524025292,
+                    "longitude": -0.16368114453180016,
+                    "searchDetail": null,
+                    "caption": "Гайд-Парк, <span class='highlighted'>Лондон</span>, Англия, Великобритания",
+                    "name": "Гайд-Парк"
+                },
+                {
+                    "geoId": "508412",
+                    "destinationId": "1653378",
+                    "landmarkCityDestinationId": "549499",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.50787,
+                    "longitude": -0.08772,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>ский мост, Лондон, Англия, Великобритания",
+                    "name": "Лондонский мост"
+                },
+                {
+                    "geoId": "6047451",
+                    "destinationId": "1637276",
+                    "landmarkCityDestinationId": "549499",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.503332,
+                    "longitude": -0.119418,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>ский глаз, Лондон, Англия, Великобритания",
+                    "name": "Лондонский глаз"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "5392460",
+                    "destinationId": "543878",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.470878,
+                    "longitude": -0.449753,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>, Великобритания (LHR-Хитроу)",
+                    "name": "Лондон (LHR-Хитроу)"
+                },
+                {
+                    "geoId": "5133388",
+                    "destinationId": "1644476",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.878796,
+                    "longitude": -0.376453,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>, Великобритания (LTN-Лютон)",
+                    "name": "Лондон (LTN-Лютон)"
+                },
+                {
+                    "geoId": "5133395",
+                    "destinationId": "1637132",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 51.889432,
+                    "longitude": 0.262148,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лондон</span>, Великобритания (STN-Станстед)",
+                    "name": "Лондон (STN-Станстед)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

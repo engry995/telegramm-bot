@@ -1,0 +1,1873 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Мачаме, Регион Килиманджаро, Танзания",
+            "query": {
+                "destination": {
+                    "id": "1371817",
+                    "value": "Мачаме, Регион Килиманджаро, Танзания",
+                    "resolvedLocation": "CITY:1371817:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 101,
+                "results": [
+                    {
+                        "id": 476019,
+                        "name": "Kaliwa Lodge",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Machame Road",
+                            "extendedAddress": "",
+                            "locality": "Machame",
+                            "postalCode": "6967",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 14,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "3,8 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "26 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$195",
+                                "exactCurrent": 194.61
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Machame",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.25214,
+                            "lon": 37.22805
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 9139747,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/10000000/9140000/9139800/9139747/170ed138_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 653292544,
+                        "name": "Kilinopark Hotel Machame Gate",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Machame Route Gate",
+                            "extendedAddress": "",
+                            "locality": "Machame",
+                            "postalCode": "00255",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "3,1 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "32 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Machame",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.191135,
+                            "lon": 37.235078
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 20384142,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/21000000/20390000/20384200/20384142/b66455dc_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 666612800,
+                        "name": "Salinero Millie Lodge",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Off Moshi Arusha Highway",
+                            "extendedAddress": "Moshi",
+                            "locality": "Machame",
+                            "postalCode": "7611",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Центр города",
+                                "distance": "1,0 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "30 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Machame",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.209281,
+                            "lon": 37.223386
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 20800400,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/21000000/20810000/20800400/20800400/dca50cff_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 692952448,
+                        "name": "Panone Motel K.I.A",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "5 km West of Kilimanjaro Airport Road",
+                            "extendedAddress": "",
+                            "locality": "Arusha",
+                            "postalCode": "0255",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "28 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "17 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$500",
+                                "exactCurrent": 500.01
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arusha",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": -3.297633,
+                            "lon": 36.984883
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 21623514,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/22000000/21630000/21623600/21623514/fef29444_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 889618336,
+                        "name": "Osiligilai Maasai Lodge",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "217 Sanya Juu",
+                            "extendedAddress": "",
+                            "locality": "Arusha",
+                            "postalCode": "00255",
+                            "region": "Arusha Region",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "33 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "36 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$435",
+                                "exactCurrent": 435.36
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arusha",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.120639,
+                            "lon": 36.944556
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 27769323,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/28000000/27770000/27769400/27769323/a2b45e4a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 956722112,
+                        "name": "Springlands Hotel Moshi",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Pembo Rd",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "25102",
+                            "region": "Kilimanjaro Region",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "22 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "31 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$280",
+                                "exactCurrent": 279.99
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": -3.377867,
+                            "lon": 37.343735
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 29866316,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/30000000/29870000/29866400/29866316/b9096f24_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1088514752,
+                        "name": "Kili-Konka Holiday Villa",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "locality": "Moshi",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "17 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "32 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$260",
+                                "exactCurrent": 260.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": -3.31976,
+                            "lon": 37.3366
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 33984836,
+                        "vrBadge": "Дом",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/34000000/33990000/33984900/33984836/0caa4eb1_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 263580,
+                        "name": "Kia Lodge",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "11279 Mount Meru Rd",
+                            "extendedAddress": "",
+                            "locality": "Arusha",
+                            "postalCode": "",
+                            "region": "Arusha Region",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 38,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "28 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "1,1 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$227",
+                                "exactCurrent": 227.01
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arusha",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.422629,
+                            "lon": 37.074957
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1849013,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1850000/1849100/1849013/a211360a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1347465568,
+                        "name": "Bristol Cottages",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Aga Khan Road",
+                            "extendedAddress": "98 Rindi Lane",
+                            "locality": "Moshi",
+                            "postalCode": "7304",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "32 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$200",
+                                "exactCurrent": 200.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": -3.349362,
+                            "lon": 37.341072
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 42077049,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/43000000/42080000/42077100/42077049/b4798851_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 631793280,
+                        "name": "Airport Planet Lodge at Kilimanjaro Airport",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plot 109, Malula Village",
+                            "extendedAddress": "Moshi-Arusha Road",
+                            "locality": "Arusha",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 43,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "26 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "5,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$188",
+                                "exactCurrent": 188.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arusha",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.373089,
+                            "lon": 37.056097
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19712290,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19720000/19712300/19712290/bae9e82b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1068855264,
+                        "name": "Pink Flamingo Boutique Hotel",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Moshi",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "Kilimanjaro Region",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 18,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "16 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "27 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$185",
+                                "exactCurrent": 184.87
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.34281,
+                            "lon": 37.290603
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 33370477,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/34000000/33380000/33370500/33370477/c36178e3_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 565391,
+                        "name": "Weru Weru River Lodge",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Moshi",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6,0",
+                            "total": 3,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "11 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "25 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$146",
+                                "exactCurrent": 145.82
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.31404,
+                            "lon": 37.26239
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 12982725,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/13000000/12990000/12982800/12982725/59c6765f_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1191099136,
+                        "name": "Chanya Lodge",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plot 298, Kiboriloni",
+                            "extendedAddress": "off Arusha-Himo Road A23",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 9,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "22 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "36 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$126",
+                                "exactCurrent": 126.34,
+                                "old": "$133"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|increaseNumberOfReviewsRequired|TESCO",
+                        "coordinate": {
+                            "lat": -3.342941,
+                            "lon": 37.383059
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 37190598,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/38000000/37200000/37190600/37190598/457dcf4e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 636716896,
+                        "name": "Ameg Lodge Kilimanjaro",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Ameg Road, Off Lema Road",
+                            "extendedAddress": "Shanty Town",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 22,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "17 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "31 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$125",
+                                "exactCurrent": 125.4
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": -3.334701,
+                            "lon": 37.325139
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19866153,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19870000/19866200/19866153/fe57df70_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 701496704,
+                        "name": "Kiboko Lodge",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Ngurdoto Village",
+                            "extendedAddress": "",
+                            "locality": "Arusha",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "36 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "20 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$116",
+                                "exactCurrent": 116.09
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arusha",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": -3.321101,
+                            "lon": 36.921701
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 21890522,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/22000000/21900000/21890600/21890522/bc621f12_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 594143456,
+                        "name": "Aishi Machame Hotel",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plot 178A, Machame District",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "5,2 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "26 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$115",
+                                "exactCurrent": 114.74
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.264857,
+                            "lon": 37.229798
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 18535733,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/19000000/18540000/18535800/18535733/10cba66f_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1169433728,
+                        "name": "Selig Hotel",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "8900 Old Moshi Rd",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "Kilimanjaro Region",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "19 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "32 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$112",
+                                "exactCurrent": 111.81
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.345437,
+                            "lon": 37.345993
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 36513554,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/37000000/36520000/36513600/36513554/db0394b0_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1205801408,
+                        "name": "Kilimanjaro Resort",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Himo-Marangu Road",
+                            "extendedAddress": "",
+                            "locality": "Marangu",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 1,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "33 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "53 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$106",
+                                "exactCurrent": 106.39,
+                                "old": "$116"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Marangu",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": -3.28154,
+                            "lon": 37.52014
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 37650044,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/38000000/37660000/37650100/37650044/efd9e89e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 692268192,
+                        "name": "Babylon Lodge",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Marangu -Moshi",
+                            "extendedAddress": "",
+                            "locality": "Marangu",
+                            "postalCode": "",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 1,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "34 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "54 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$102",
+                                "exactCurrent": 101.59
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Marangu",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.284405,
+                            "lon": 37.528766
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 21602131,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/22000000/21610000/21602200/21602131/e53474ff_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1482754144,
+                        "name": "Panama Garden Resort",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Lema Road",
+                            "extendedAddress": "Shanty Town",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "Kilimanjaro Region",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 3,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "16 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "30 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$100",
+                                "exactCurrent": 100.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": -3.328317,
+                            "lon": 37.321161
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 46304817,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/47000000/46310000/46304900/46304817/196da549_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 655908576,
+                        "name": "Kilimanjaro Wonders Hotel",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Kigoma Street",
+                            "extendedAddress": "Shanti Town - Moshi",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 16,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "18 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "31 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$94",
+                                "exactCurrent": 94.49,
+                                "old": "$105"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": -3.343908,
+                            "lon": 37.329973
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 20465893,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/21000000/20470000/20465900/20465893/500c39e3_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 468599,
+                        "name": "Mount Kilimanjaro View Lodge",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Shimbwe Juju Village, 15 Km from Moshi",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 3.0,
+                            "rating": "3,0",
+                            "total": 2,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "6,2 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "35 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$90",
+                                "exactCurrent": 89.99
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.19615,
+                            "lon": 37.27893
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 8719366,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/9000000/8720000/8719400/8719366/251c3fcb_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 423993,
+                        "name": "Stella Maris Lodge",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Arusha-Himo Road",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 8,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "13 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "25 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$90",
+                                "exactCurrent": 89.66,
+                                "old": "$99"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.326635,
+                            "lon": 37.266035
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5590121,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5600000/5590200/5590121/e19847fa_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 740770304,
+                        "name": "East Point Hotel Moshi",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Liwali Street",
+                            "extendedAddress": "",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "Kilimanjaro",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "20 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "31 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$82",
+                                "exactCurrent": 82.06
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.358177,
+                            "lon": 37.340342
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 23117822,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/24000000/23120000/23117900/23117822/cc55e0b8_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 402243,
+                        "name": "Honey Badger Lodge",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plot 138, Ngambo Street, Msaranga",
+                            "extendedAddress": "PO box 1258",
+                            "locality": "Moshi",
+                            "postalCode": "",
+                            "region": "",
+                            "countryName": "Tanzania",
+                            "countryCode": "tz",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 9,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Очень хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Мачаме",
+                                "distance": "27 км"
+                            },
+                            {
+                                "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                "distance": "39 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$77",
+                                "exactCurrent": 76.51,
+                                "old": "$90"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Moshi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": -3.37021,
+                            "lon": 37.41548
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 4911318,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4920000/4911400/4911318/65a55bd5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Звездность",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Звезды (по убыванию)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Звезды (по возрастанию)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Расстояние",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Расстояние до центра города",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Что посмотреть",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "Центр города",
+                                        "id": 1371817.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Аэропорты",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                                        "id": 1665170.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Рейтинг гостей",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Рейтинг гостей",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Цена",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Цена (по убыванию)",
+                        "choices": [
+                            {
+                                "label": "Цена (по убыванию)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": true
+                            },
+                            {
+                                "label": "Цена (по возрастанию)",
+                                "value": "PRICE",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 1371817.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:1371817:UNKNOWN:UNKNOWN",
+                            "q-destination": "Мачаме, Регион Килиманджаро, Танзания",
+                            "destination-id": "1371817"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5,
+                            "disabled": true
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "Центр города",
+                            "value": "1371817"
+                        },
+                        {
+                            "label": "Килимарджаро (JRO-Килиманджаро, международный)",
+                            "value": "1665170"
+                        }
+                    ],
+                    "distance": []
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Апарт-отели",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Гостевые дома",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Дома для отпуска",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Домики",
+                            "value": "9"
+                        },
+                        {
+                            "label": "Мини-отели",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Отели",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Хостелы",
+                            "value": "12"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "В цену включен Wi-Fi",
+                            "value": "527"
+                        },
+                        {
+                            "label": "Для некурящих",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Завтрак включен",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Круглосуточная стойка регистрации",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Парковка",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Разрешено проживание с домашними животными",
+                            "value": "64"
+                        },
+                        {
+                            "label": "С баром",
+                            "value": "515"
+                        },
+                        {
+                            "label": "С бассейном",
+                            "value": "128"
+                        },
+                        {
+                            "label": "С бизнес-услугами",
+                            "value": "519"
+                        },
+                        {
+                            "label": "С ванной в номере",
+                            "value": "517"
+                        },
+                        {
+                            "label": "С детскими кроватками",
+                            "value": "525"
+                        },
+                        {
+                            "label": "С доступом в интернет",
+                            "value": "8"
+                        },
+                        {
+                            "label": "С зонами для курения",
+                            "value": "537"
+                        },
+                        {
+                            "label": "С конференц-залами",
+                            "value": "1"
+                        },
+                        {
+                            "label": "С кухней",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Со смежными номерами",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Со спа-салоном",
+                            "value": "539"
+                        },
+                        {
+                            "label": "Со спортзалом",
+                            "value": "2"
+                        },
+                        {
+                            "label": "С присмотром за детьми",
+                            "value": "521"
+                        },
+                        {
+                            "label": "С рестораном",
+                            "value": "256"
+                        },
+                        {
+                            "label": "С трансфером до аэропорта",
+                            "value": "513"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Безбарьерный доступ",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Безбарьерный душ",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Ванная для маломобильных гостей",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Номера для маломобильных гостей",
+                            "value": "541"
+                        },
+                        {
+                            "label": "Оборудование для слабослышащих",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Парковка, приспособленная для маломобильных гостей",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "Удобства в номерах для маломобильных гостей",
+                            "value": "1048576"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Бутик",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Для активного отдыха",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Для гольфа",
+                            "value": "26"
+                        },
+                        {
+                            "label": "Для деловых людей",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Для семейного отдыха",
+                            "value": "25"
+                        },
+                        {
+                            "label": "На термальных источниках",
+                            "value": "22"
+                        },
+                        {
+                            "label": "Спа",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Стоимость (общая)",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com™ Rewards",
+                    "items": [
+                        {
+                            "label": "Получите штампы",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Используйте бонусные* сутки",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE_HIGHEST_FIRST&rooms=1&destRegionID=1371817&hotelIds=476019,653292544,666612800,692952448,889618336,956722112,1088514752,263580,1347465568,631793280,1068855264,565391,1191099136,636716896,701496704,594143456,1169433728,1205801408,692268192,1482754144,655908576,468599,423993,740770304,402243&adults=2&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=fbe159f9-8df3-4a6c-9a7f-e32e4b080273&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=ru.hotels.com&userIP=99.56.228.20&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": " ,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;9139747,LOCAL;20384142,LOCAL;20800400",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "2ee70392-e05a-49a0-8413-763abc4142cb",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar2": "Мачаме, Регион Килиманджаро, Танзания",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "ru.hotels.com",
+                    "s.eVar6": "1371817",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "fbe159f9-8df3-4a6c-9a7f-e32e4b080273",
+                    "s.eVar9": "Price - high to low",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar26": "US:AR:LITTLEROCK:693",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "101",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "101",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result without dates",
+                    "s.eVar34": "H1871:007.002,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:050.000,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7870:000.000,M8130:000.001,M8336:000.000,M8347:019.002,M8692:000.000,M8698:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9434:000.000,M9469:000.000,M9508:000.000,M9549:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10268:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M9215:001.001",
+                    "s.eVar13": "389273",
+                    "s.events": "event324,event319,event318,event320",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389273",
+                    "s.prop15": "",
+                    "s.prop3": "Мачаме, Регион Килиманджаро, Танзания",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-east-1.unknown",
+                    "s.prop2": "Price - high to low"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "term": "Рига",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "05db77fd5cf84a01882a628659a9d47f",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "3000",
+                    "destinationId": "805270",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.94847,
+                    "longitude": 24.10824,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Рига"
+                },
+                {
+                    "geoId": "6170999",
+                    "destinationId": "1722695",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.949794506589484,
+                    "longitude": 24.106605086991443,
+                    "searchDetail": null,
+                    "caption": "Старый город, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Старый город"
+                },
+                {
+                    "geoId": "6171000",
+                    "destinationId": "1637716",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.957241080008984,
+                    "longitude": 24.118613362235088,
+                    "searchDetail": null,
+                    "caption": "Центр, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Центр"
+                },
+                {
+                    "geoId": "3000036154",
+                    "destinationId": "10371323",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 42.62805091103837,
+                    "longitude": 2.5375042973984905,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Рига</span>рда, Восточные Пиренеи, Франция",
+                    "name": "Ригарда"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "1462352",
+                    "destinationId": "47795264",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.95132,
+                    "longitude": 24.10476,
+                    "searchDetail": null,
+                    "caption": "Pullman Riga Old Town, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Pullman Riga Old Town"
+                },
+                {
+                    "geoId": "2105610",
+                    "destinationId": "271324",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.93769,
+                    "longitude": 24.04786,
+                    "searchDetail": null,
+                    "caption": "Отель Rixwell Elefant, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Отель Rixwell Elefant"
+                },
+                {
+                    "geoId": "3537733",
+                    "destinationId": "347140",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.948784,
+                    "longitude": 24.122593,
+                    "searchDetail": null,
+                    "caption": "Tallink Hotel <span class='highlighted'>Рига</span>, Рига, Латвия",
+                    "name": "Tallink Hotel Рига"
+                },
+                {
+                    "geoId": "15919265",
+                    "destinationId": "620084",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.94633,
+                    "longitude": 24.07752,
+                    "searchDetail": null,
+                    "caption": "Park Inn by Radisson <span class='highlighted'>Рига</span> Вальдемара, Рига, Латвия",
+                    "name": "Park Inn by Radisson Рига Вальдемара"
+                },
+                {
+                    "geoId": "15919287",
+                    "destinationId": "619809",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.95348,
+                    "longitude": 24.12591,
+                    "searchDetail": null,
+                    "caption": "Park Inn by Radisson Residence <span class='highlighted'>Рига</span> Барона, Рига, Латвия",
+                    "name": "Park Inn by Radisson Residence Рига Барона"
+                },
+                {
+                    "geoId": "1716958",
+                    "destinationId": "257527",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.945722,
+                    "longitude": 24.112118,
+                    "searchDetail": null,
+                    "caption": "AVALON HOTEL & CONFERENCES, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "AVALON HOTEL & CONFERENCES"
+                },
+                {
+                    "geoId": "1803692",
+                    "destinationId": "262472",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.95212,
+                    "longitude": 24.12028,
+                    "searchDetail": null,
+                    "caption": "Отель Radisson Blu Elizabete, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Отель Radisson Blu Elizabete"
+                },
+                {
+                    "geoId": "481297",
+                    "destinationId": "190814",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.94165,
+                    "longitude": 24.08228,
+                    "searchDetail": null,
+                    "caption": "Bellevue Park Hotel <span class='highlighted'>Рига</span>, Рига, Латвия",
+                    "name": "Bellevue Park Hotel Рига"
+                },
+                {
+                    "geoId": "1588383",
+                    "destinationId": "250713",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.94894,
+                    "longitude": 24.11186,
+                    "searchDetail": null,
+                    "caption": "Old City Boutique Hotel, <span class='highlighted'>Рига</span>, Латвия",
+                    "name": "Old City Boutique Hotel"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6172271",
+                    "destinationId": "1723332",
+                    "landmarkCityDestinationId": "805270",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.967135,
+                    "longitude": 24.12044,
+                    "searchDetail": null,
+                    "caption": "Арена <span class='highlighted'>Рига</span> (спортивно-концертный комплекс), Рига, Латвия",
+                    "name": "Арена Рига (спортивно-концертный комплекс)"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "5785938",
+                    "destinationId": "1637698",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 56.922215,
+                    "longitude": 23.973691,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Рига</span>, Латвия (RIX-Рига, международный)",
+                    "name": "Рига (RIX-Рига, международный)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

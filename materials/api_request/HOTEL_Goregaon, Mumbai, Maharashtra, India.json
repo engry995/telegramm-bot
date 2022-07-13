@@ -1,0 +1,2355 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Goregaon, Mumbai, Maharashtra, India",
+            "query": {
+                "destination": {
+                    "id": "1705021",
+                    "value": "Goregaon, Mumbai, Maharashtra, India",
+                    "resolvedLocation": "CITY:1705021:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 1299,
+                "results": [
+                    {
+                        "id": 692740,
+                        "name": "Awesome Dormitory",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "No. 3 1st Floor, Andheri-Ghatkoper Road",
+                            "extendedAddress": "Near Sakinaka Metro Station",
+                            "locality": "Mumbai",
+                            "postalCode": "400072",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8.6",
+                            "total": 7,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Fabulous"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.7 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.0 mile"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$4",
+                                "exactCurrent": 3.91,
+                                "old": "$4",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $71 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.102793,
+                            "lon": 72.889116
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 18354839,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/19000000/18360000/18354900/18354839/937928c1_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1018544064,
+                        "name": "Udupi Dormitory",
+                        "starRating": 1.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Ghatkopar Andheri Link Rd",
+                            "extendedAddress": "Andheri East",
+                            "locality": "Mumbai",
+                            "postalCode": "400072",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.8 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.1 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$5",
+                                "exactCurrent": 4.69,
+                                "old": "$5",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $56 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.101528,
+                            "lon": 72.890412
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 31798252,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/32000000/31800000/31798300/31798252/69579386_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 403208,
+                        "name": "New Shahana - Hostel",
+                        "starRating": 1.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Shop no.5, Marol Maroshi Road",
+                            "extendedAddress": "Marol, Andheri (E)",
+                            "locality": "Mumbai",
+                            "postalCode": "400059",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7.0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "2.5 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.3 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$8",
+                                "exactCurrent": 7.84,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $47 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.1176,
+                            "lon": 72.880122
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 4928439,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4930000/4928500/4928439/7974dc72_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1339832224,
+                        "name": "Millano Dormitory",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "R1 Gomes Compound Kurla West",
+                            "extendedAddress": "NR Ganesh Mandir 90 ft Road Saki",
+                            "locality": "Mumbai",
+                            "postalCode": "400072",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.0,
+                            "rating": "2.0",
+                            "total": 1,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "4.2 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.4 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$10",
+                                "exactCurrent": 10.12,
+                                "old": "$11",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $72 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.096214,
+                            "lon": 72.852479
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 41838507,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/42000000/41840000/41838600/41838507/161d4b4d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 671614,
+                        "name": "Star Dormitory",
+                        "starRating": 1.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "New Link Road, Behind Lotus Petrol Pump",
+                            "extendedAddress": "Andheri West",
+                            "locality": "Mumbai",
+                            "postalCode": "400058",
+                            "region": "Maharahtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "2.7 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "4.1 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$12",
+                                "exactCurrent": 11.96,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $143 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 19.143497,
+                            "lon": 72.832149
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 17251381,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/18000000/17260000/17251400/17251381/213d5141_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 652337,
+                        "name": "Hotel Galaxy's Vaibhav",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Near State Bank of India, Parnaka",
+                            "extendedAddress": "",
+                            "locality": "Vasai",
+                            "postalCode": "401201",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6.6",
+                            "total": 12,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "14 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "18 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$12",
+                                "exactCurrent": 12.09,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $73 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Vasai",
+                        "deals": {},
+                        "messaging": {
+                            "scarcity": "4 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.343732,
+                            "lon": 72.804066
+                        },
+                        "roomsLeft": 4,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 17075407,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/18000000/17080000/17075500/17075407/35a5a7cb_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 758872128,
+                        "name": "OYO 845 Hotel Kailash Park",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Kailash Puram, Near Sakinaka",
+                            "extendedAddress": "Metro Station Gate No.2,Sakinaka, Andher",
+                            "locality": "Mumbai",
+                            "postalCode": "400072",
+                            "region": "",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.6 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.0 mile"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$13",
+                                "exactCurrent": 12.52,
+                                "old": "$25",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $77 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "specialDeal": {
+                                "dealText": "Save 50%"
+                            },
+                            "priceReasoning": "DRR-446"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.103696,
+                            "lon": 72.889134
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 23683504,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/24000000/23690000/23683600/23683504/4a48d350_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1230099936,
+                        "name": "BKC Corporate Hostel",
+                        "starRating": 1.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Capri Building 2Nd Floor, Near Station",
+                            "extendedAddress": "Opp Hotel Arma Court, Bandra East",
+                            "locality": "Mumbai",
+                            "postalCode": "400051",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "6.6 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "3.2 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$13",
+                                "exactCurrent": 13.06,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $78 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.060991,
+                            "lon": 72.847009
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 38409373,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/39000000/38410000/38409400/38409373/fabb4ced_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 800301216,
+                        "name": "Hotel Shadab Palace",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Tardel Street (N), Siddhi Mohalla",
+                            "extendedAddress": "Near Boda Ghar Dargah, Umerkhadi",
+                            "locality": "Mumbai",
+                            "postalCode": "400009",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "14 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "10 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$13",
+                                "exactCurrent": 13.07,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $78 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {},
+                        "messaging": {
+                            "scarcity": "1 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 18.95848,
+                            "lon": 72.83525
+                        },
+                        "roomsLeft": 1,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 24978163,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/25000000/24980000/24978200/24978163/5af8e717_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 609425056,
+                        "name": "Hotel Pearl",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plot-65, Sec-19A, Mafco Road",
+                            "extendedAddress": "",
+                            "locality": "Navi Mumbai",
+                            "postalCode": "400705",
+                            "region": "",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 4.8,
+                            "rating": "4.8",
+                            "total": 5,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "10 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "9.0 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$14",
+                                "exactCurrent": 14.17,
+                                "old": "$20",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $95 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Navi Mumbai",
+                        "deals": {
+                            "specialDeal": {
+                                "dealText": "Save 31%"
+                            },
+                            "priceReasoning": "DRR-446"
+                        },
+                        "messaging": {
+                            "scarcity": "4 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.082346,
+                            "lon": 73.011471
+                        },
+                        "roomsLeft": 4,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19013283,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19020000/19013300/19013283/11a6d013_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1270431648,
+                        "name": "Sharda residency",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "188/h sharda mansion",
+                            "extendedAddress": "dr. babasaheb ambedkar road dadar east",
+                            "locality": "Mumbai",
+                            "postalCode": "400014",
+                            "region": "maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.0,
+                            "rating": "2.0",
+                            "total": 3,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "9.8 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "6.2 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$15",
+                                "exactCurrent": 14.7,
+                                "old": "$16",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $99 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {
+                            "scarcity": "4 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.01426,
+                            "lon": 72.8443
+                        },
+                        "roomsLeft": 4,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 39669739,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/40000000/39670000/39669800/39669739/381f3914_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 396188,
+                        "name": "Hotel Crescent",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Near Asha Krishna Bldg",
+                            "extendedAddress": "Opp Noori Masjid, Sakinaka",
+                            "locality": "Mumbai",
+                            "postalCode": "400072",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.6,
+                            "rating": "2.6",
+                            "total": 4,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.8 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.1 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$15",
+                                "exactCurrent": 14.71,
+                                "old": "$16",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $99 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {
+                            "scarcity": "4 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.101215,
+                            "lon": 72.89091
+                        },
+                        "roomsLeft": 4,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 4725782,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4730000/4725800/4725782/cfe17ff6_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 2016184864,
+                        "name": "Farmhouse Residency",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Sagarsheth-Mulgaon Church Rd",
+                            "extendedAddress": "",
+                            "locality": "Vasai",
+                            "postalCode": "401201",
+                            "region": "MH",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7.0",
+                            "total": 4,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "14 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "17 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$16",
+                                "exactCurrent": 15.52,
+                                "old": "$17",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $104 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Vasai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": 19.34447,
+                            "lon": 72.812363
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 62974527,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/63000000/62980000/62974600/62974527/92fe2915_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 721670432,
+                        "name": "Hotel Galaxy Residency",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Agarwal Circle, Near PMC Bank",
+                            "extendedAddress": "Vasai-Nallasopara Link Road, Vasai East",
+                            "locality": "Vasai",
+                            "postalCode": "401208",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "18 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "21 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$16",
+                                "exactCurrent": 16.05,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $108 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Vasai",
+                        "deals": {},
+                        "messaging": {
+                            "scarcity": "3 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.40497,
+                            "lon": 72.828778
+                        },
+                        "roomsLeft": 3,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 22520951,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/23000000/22530000/22521000/22520951/44d374e8_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1285862848,
+                        "name": "OYO 6428 K F Residency",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Next To Kurla Court",
+                            "extendedAddress": "",
+                            "locality": "Mumbai",
+                            "postalCode": "400070",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "6.3 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "2.5 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$16",
+                                "exactCurrent": 16.14,
+                                "old": "$32",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $108 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "specialDeal": {
+                                "dealText": "Save 50%"
+                            },
+                            "priceReasoning": "DRR-446"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.062832,
+                            "lon": 72.87345
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 40151964,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/41000000/40160000/40152000/40151964/53ec3192_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 709388096,
+                        "name": "Dreamland Hotel",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "163 P D'Mello Road",
+                            "extendedAddress": "Fort",
+                            "locality": "Mumbai",
+                            "postalCode": "400001",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "15 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "11 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$16",
+                                "exactCurrent": 16.34,
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $110 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 18.946796,
+                            "lon": 72.8401
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 22137128,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/23000000/22140000/22137200/22137128/1d4dd428_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1324649792,
+                        "name": "Hotel Apple Inn",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Krishna Govinda Tower",
+                            "extendedAddress": "",
+                            "locality": "Navi Mumbai",
+                            "postalCode": "400703",
+                            "region": "MH",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "11 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "9.1 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$16",
+                                "exactCurrent": 16.47,
+                                "old": "$18",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $111 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Navi Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {
+                            "scarcity": "4 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.06913,
+                            "lon": 73.009395
+                        },
+                        "roomsLeft": 4,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 41364056,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/42000000/41370000/41364100/41364056/07fc6080_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 865690624,
+                        "name": "Hotel Golden Sagar",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Indra Nagar, Near Maharastra Kata",
+                            "extendedAddress": "LBS Marg, Kurla West",
+                            "locality": "Mumbai",
+                            "postalCode": "400070",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.0,
+                            "rating": "2.0",
+                            "total": 1,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "6.7 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "3.0 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$17",
+                                "exactCurrent": 17.25,
+                                "old": "$29",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $116 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-445"
+                        },
+                        "messaging": {
+                            "scarcity": "3 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.05645,
+                            "lon": 72.86969
+                        },
+                        "roomsLeft": 3,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 27021582,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/28000000/27030000/27021600/27021582/d51d9f03_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 694629,
+                        "name": "Hotel Address Inn",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "5/A Gulab Estate, Safed Pool, Sakinaka",
+                            "extendedAddress": "T2 Link Road, Andheri Kurla Road",
+                            "locality": "Mumbai",
+                            "postalCode": "400072",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6.0",
+                            "total": 1,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.7 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "0.5 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$17",
+                                "exactCurrent": 17.35,
+                                "old": "$19",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $117 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.100374,
+                            "lon": 72.881369
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 18417408,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/19000000/18420000/18417500/18417408/e905c0eb_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1244775392,
+                        "name": "Hotel Zam Zam Palace",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Aga Khan Building,Sardar Vallabhbhai",
+                            "extendedAddress": "Patel Rd, Dongri, Mandvi",
+                            "locality": "Mumbai",
+                            "postalCode": "400009",
+                            "region": "Maharastra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "14 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "10 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$18",
+                                "exactCurrent": 17.65,
+                                "old": "$20",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $119 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 18.957922,
+                            "lon": 72.835117
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 38867981,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/39000000/38870000/38868000/38867981/33f92f13_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 718073120,
+                        "name": "OYO 789 Hotel Airport Annex",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Twin Arcade, Military Road, Andheri East",
+                            "extendedAddress": "Opp. Sugun Hospital, Marol Post Office",
+                            "locality": "Mumbai",
+                            "postalCode": "400057",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10.0",
+                            "total": 1,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Exceptional"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "2.7 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.3 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$18",
+                                "exactCurrent": 17.69,
+                                "old": "$35",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $119 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "specialDeal": {
+                                "dealText": "Save 50%"
+                            },
+                            "priceReasoning": "DRR-446"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.11637,
+                            "lon": 72.88227
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 22408535,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/23000000/22410000/22408600/22408535/c878a243_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 624885,
+                        "name": "Hotel Star Palace",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Opp Mukund Hospital",
+                            "extendedAddress": "Near Airport Metro Station, Andheri East",
+                            "locality": "Mumbai",
+                            "postalCode": "400059",
+                            "region": "",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.0,
+                            "rating": "5.0",
+                            "total": 2,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.0 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "0.8 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$18",
+                                "exactCurrent": 18.42,
+                                "old": "$20",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $124 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {
+                            "scarcity": "2 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 19.110876,
+                            "lon": 72.871963
+                        },
+                        "roomsLeft": 2,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 16130901,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/17000000/16140000/16131000/16130901/07da935c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1834617472,
+                        "name": "Hotel Blue Orchid",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "B11, Saibaba Industrial Estate, Next to",
+                            "extendedAddress": "State Bank Line, Marol Maroshi Rd.",
+                            "locality": "Mumbai",
+                            "postalCode": "400059",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.0,
+                            "rating": "2.0",
+                            "total": 1,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.0 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "0.9 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$19",
+                                "exactCurrent": 18.82,
+                                "old": "$21",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $126 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13",
+                        "coordinate": {
+                            "lat": 19.110971,
+                            "lon": 72.879401
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 57300546,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/58000000/57310000/57300600/57300546/a8a48c51_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 413495,
+                        "name": "Hotel Cosmo",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Seepz Cross Road, Near Vijay Nagar",
+                            "extendedAddress": "Flyover Bridge, Marol, Andheri East",
+                            "locality": "Mumbai",
+                            "postalCode": "400059",
+                            "region": "Maharashtra",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 3.0,
+                            "rating": "3.0",
+                            "total": 2,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "2.4 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "1.4 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$19",
+                                "exactCurrent": 18.82,
+                                "old": "$31",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $126 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "specialDeal": {
+                                "dealText": "Save 40%"
+                            },
+                            "priceReasoning": "DRR-446"
+                        },
+                        "messaging": {
+                            "scarcity": "3 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 19.120084,
+                            "lon": 72.877776
+                        },
+                        "roomsLeft": 3,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5257922,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5260000/5258000/5257922/f2cda71c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1856197056,
+                        "name": "Hotel Gateway Inn",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Unit 2 Hasan Pada Rd",
+                            "extendedAddress": "",
+                            "locality": "Mumbai",
+                            "postalCode": "400059",
+                            "region": "MH",
+                            "countryName": "India",
+                            "countryCode": "in",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.0,
+                            "rating": "2.0",
+                            "total": 1,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Goregaon",
+                                "distance": "3.4 miles"
+                            },
+                            {
+                                "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                "distance": "0.6 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$20",
+                                "exactCurrent": 19.61,
+                                "old": "$22",
+                                "info": "nightly price per room",
+                                "additionalInfo": "This is the average nightly price for your dates.",
+                                "fullyBundledPricePerStay": "total $132 for 6&nbsp;nights"
+                            },
+                            "features": {
+                                "freeCancellation": true,
+                                "paymentPreference": true,
+                                "noCCRequired": false
+                            },
+                            "type": "Dual"
+                        },
+                        "neighbourhood": "Mumbai",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": 19.105607,
+                            "lon": 72.88034
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 57974908,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/58000000/57980000/57975000/57974908/899735e5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_EXPANDED",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_EXPANDED"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Featured",
+                        "itemMeta": "popular",
+                        "choices": [
+                            {
+                                "label": "Featured",
+                                "value": "BEST_SELLER",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Star rating",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Stars (high to low)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Stars (low to high)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Distance",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Distance to city center",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Landmarks",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "City center",
+                                        "id": 1705021.0
+                                    },
+                                    {
+                                        "label": "Bombay Convention & Exhibition Centre",
+                                        "id": 1688934.0
+                                    },
+                                    {
+                                        "label": "Chhota Kashmir Park",
+                                        "id": -2028744704.0
+                                    },
+                                    {
+                                        "label": "Film City",
+                                        "id": 1722978.0
+                                    },
+                                    {
+                                        "label": "Gorakhnath Gufa",
+                                        "id": 10663661.0
+                                    },
+                                    {
+                                        "label": "NESCO Center",
+                                        "id": 63427440.0
+                                    },
+                                    {
+                                        "label": "Oberoi Mall",
+                                        "id": 1688935.0
+                                    },
+                                    {
+                                        "label": "St. Josephs Convent",
+                                        "id": 1772307.0
+                                    },
+                                    {
+                                        "label": "Whistling Woods International",
+                                        "id": 10807205.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Airports",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Chhatrapati Shivaji International Airport (BOM)",
+                                        "id": 1672157.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Guest rating",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Guest rating",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Price",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Price (low to high)",
+                        "choices": [
+                            {
+                                "label": "Price (high to low)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Price (low to high)",
+                                "value": "PRICE",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 1705021.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:1705021:UNKNOWN:UNKNOWN",
+                            "q-destination": "Goregaon, Mumbai, Maharashtra, India",
+                            "destination-id": "1705021"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "City center",
+                            "value": "1705021"
+                        },
+                        {
+                            "label": "Chhatrapati Shivaji International Airport (BOM)",
+                            "value": "1672157"
+                        },
+                        {
+                            "label": "Bombay Convention & Exhibition Centre",
+                            "value": "1688934"
+                        },
+                        {
+                            "label": "Oberoi Mall",
+                            "value": "1688935"
+                        },
+                        {
+                            "label": "Whistling Woods International",
+                            "value": "10807205"
+                        },
+                        {
+                            "label": "Film City",
+                            "value": "1722978"
+                        },
+                        {
+                            "label": "St. Josephs Convent",
+                            "value": "1772307"
+                        },
+                        {
+                            "label": "Gorakhnath Gufa",
+                            "value": "10663661"
+                        },
+                        {
+                            "label": "Chhota Kashmir Park",
+                            "value": "735456299224125440"
+                        },
+                        {
+                            "label": "NESCO Center",
+                            "value": "553248635975357296"
+                        }
+                    ],
+                    "distance": []
+                },
+                "neighbourhood": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Goregaon East",
+                            "value": "11427696"
+                        },
+                        {
+                            "label": "Aarey Colony",
+                            "value": "12543149"
+                        }
+                    ]
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Apart-hotels",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Apartments",
+                            "value": "15"
+                        },
+                        {
+                            "label": "B&Bs",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Cabins and lodges",
+                            "value": "9"
+                        },
+                        {
+                            "label": "Capsule hotels",
+                            "value": "43"
+                        },
+                        {
+                            "label": "Guest houses",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Hostels",
+                            "value": "12"
+                        },
+                        {
+                            "label": "Hotels",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Resorts",
+                            "value": "3"
+                        },
+                        {
+                            "label": "Vacation homes",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Villas",
+                            "value": "14"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "24-hour front desk",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Airport transfers",
+                            "value": "513"
+                        },
+                        {
+                            "label": "Bar",
+                            "value": "515"
+                        },
+                        {
+                            "label": "Bathtub in room",
+                            "value": "517"
+                        },
+                        {
+                            "label": "Breakfast included",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Business facilities",
+                            "value": "519"
+                        },
+                        {
+                            "label": "Childcare",
+                            "value": "521"
+                        },
+                        {
+                            "label": "Connecting rooms available",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Cribs available",
+                            "value": "525"
+                        },
+                        {
+                            "label": "Electric vehicle charging point",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Gym",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Internet Access",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Kitchen",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Meeting Facilities",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Non-smoking",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Parking",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Pet Friendly",
+                            "value": "64"
+                        },
+                        {
+                            "label": "Pool",
+                            "value": "128"
+                        },
+                        {
+                            "label": "Restaurant",
+                            "value": "256"
+                        },
+                        {
+                            "label": "Ski shuttle",
+                            "value": "531"
+                        },
+                        {
+                            "label": "Smoking areas",
+                            "value": "537"
+                        },
+                        {
+                            "label": "Spa",
+                            "value": "539"
+                        },
+                        {
+                            "label": "WiFi included",
+                            "value": "527"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Accessibility equipment for the deaf",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Accessible bathroom",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Accessible parking",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Accessible path of travel",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Braille or raised signage",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "In-room accessibility",
+                            "value": "1048576"
+                        },
+                        {
+                            "label": "Roll-in shower",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Wheelchair accessible rooms",
+                            "value": "541"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Adventure",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Beach",
+                            "value": "6"
+                        },
+                        {
+                            "label": "Boutique",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Business",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Family-friendly",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Golf",
+                            "value": "26"
+                        },
+                        {
+                            "label": "Historic",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Hot Springs",
+                            "value": "22"
+                        },
+                        {
+                            "label": "LGBTQ Welcoming",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Luxury",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Romantic",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Ski",
+                            "value": "28"
+                        },
+                        {
+                            "label": "Spa Hotel",
+                            "value": "27"
+                        },
+                        {
+                            "label": "Winery/Vineyard",
+                            "value": "19"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Nightly Price",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "paymentPreference": {
+                    "items": [
+                        {
+                            "label": "Free cancellation",
+                            "value": "fc"
+                        },
+                        {
+                            "label": "Pay with Hotels.com gift card",
+                            "value": "gc"
+                        }
+                    ]
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com® Rewards",
+                    "items": [
+                        {
+                            "label": "Collect stamps",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Redeem reward* nights",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1705021&hotelIds=692740,1018544064,403208,1339832224,671614,652337,758872128,1230099936,800301216,609425056,1270431648,396188,2016184864,721670432,1285862848,709388096,1324649792,865690624,694629,1244775392,718073120,624885,1834617472,413495,1856197056&adults=2&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=bcf4ce26-f149-4c82-a2d2-e955277e49b3&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&checkIn=2022-05-10&children=0&culture=en_US&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=www.hotels.com&userIP=127.0.0.1&action=pageview&publisher=expedia&checkOut=2022-05-16&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "The struck-out price is based on the property’s standard rate on our app, as determined and supplied by the property."
+            },
+            "pageInfo": {
+                "pageType": "dateful"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": ",.",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result with dates | ms not shown | NA",
+                    "s.products": "LOCAL;18354839,LOCAL;31798252,LOCAL;4928439",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "b7121142-82f7-418a-92cd-18d4b2c263cd",
+                    "s.eVar42": "20|6|20220510|20220516",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "en_US|HCOM_US|www.hotels.com",
+                    "s.eVar3": "2|0",
+                    "s.eVar22": "1|USD|24:692740:4.3500:3.9100:0|24:1018544064:5.2200:4.6900:0|24:403208:7.8400:7.8400:0|24:1339832224:11.2400:10.1200:0|24:671614:11.9600:11.9600:0",
+                    "s.eVar2": "Goregaon, Mumbai, Maharashtra, India",
+                    "s.eVar23": "1|USD|24:652337:12.0900:12.0900:0|24:758872128:25.0500:12.5233:1|24:1230099936:13.0600:13.0600:0|24:800301216:13.0700:13.0700:0|24:609425056:20.4400:14.1700:1",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "20",
+                    "s.server": "www.hotels.com",
+                    "s.eVar6": "1705021",
+                    "s.prop29": "D=v42",
+                    "s.eVar5": "1",
+                    "s.prop27": "bcf4ce26-f149-4c82-a2d2-e955277e49b3",
+                    "s.eVar9": "Price - low to high",
+                    "s.prop21": "0",
+                    "s.prop20": "2",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar26": "US:TX:SANANGELO:661",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "1299",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "1238",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result with dates",
+                    "s.eVar34": "H1871:007.002,M376:000.000,M904:000.000,M3736:000.000,M4200:000.000,M4440.2,M4869:001.000,M4952:050.000,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.1,M7552:023.001,M7763:000.000,M7765.2,M7870:000.000,M7895:000.000,M8130:000.001,M8336:000.000,M8347:019.002,M8483:000.000,M8692:000.000,M8693:000.000,M8698:000.000,M8708:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8954:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9155:000.000,M9220:000.000,M9281:000.000,M9282:000.000,M9297:000.000,M9301:000.000,M9351:000.000,M9420:000.000,M9431:000.000,M9434:000.000,M9469:000.000,M9549:000.000,M9567.1,M9691:000.000,M9693:000.000,M9699:004.001,M9729:000.000,M9752:000.000,M9771.0,M9864:000.000,M9924:000.000,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10086:000.000,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M10482:000.000,M9215:001.000",
+                    "s.eVar13": "389367",
+                    "s.prop19": "1",
+                    "s.events": "event320",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389367",
+                    "s.prop15": "6",
+                    "s.prop3": "Goregaon, Mumbai, Maharashtra, India",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-west-2.unknown",
+                    "s.prop2": "Price - low to high"
+                }
+            }
+        }
+    }
+}

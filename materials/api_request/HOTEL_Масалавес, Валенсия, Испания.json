@@ -1,0 +1,2005 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Масалавес, Валенсия, Испания",
+            "query": {
+                "destination": {
+                    "id": "1906794",
+                    "value": "Масалавес, Валенсия, Испания",
+                    "resolvedLocation": "CITY:1906794:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 365,
+                "results": [
+                    {
+                        "id": 1180829728,
+                        "name": "Casa Rural Cal Ferrer",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Font Menor, 48",
+                            "extendedAddress": "",
+                            "locality": "Simat de la Valldigna",
+                            "postalCode": "46750",
+                            "region": "VALENCIA",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "22 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "52 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$266",
+                                "exactCurrent": 266.13
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Simat de la Valldigna",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13",
+                        "coordinate": {
+                            "lat": 39.044641,
+                            "lon": -0.312588
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 36869679,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/37000000/36870000/36869700/36869679/69336fa1_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1343974368,
+                        "name": "Hotel Palacio Vallier",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plaza de Manises",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46003",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.8,
+                            "rating": "9,8",
+                            "total": 70,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,4 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$254",
+                                "exactCurrent": 253.51
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 39.477,
+                            "lon": -0.377
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 41967949,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/42000000/41970000/41968000/41967949/06eeca24_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 132494,
+                        "name": "Only YOU Hotel Valencia",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "PLAZA RODRIGO BOTET,5",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46002",
+                            "region": "Valencian Community",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.4,
+                            "rating": "9,4",
+                            "total": 82,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$245",
+                                "exactCurrent": 244.83
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 39.471398,
+                            "lon": -0.375127
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 22014,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/30000/22100/22014/2ce33ea4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 229448,
+                        "name": "Hotel Las Arenas Balneario Resort",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Eugenia Vines 22-24",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46220",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 236,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "39 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "13 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$244",
+                                "exactCurrent": 244.31
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "Oceanviewv1|DoubleStamps|D13|OnBeachPropertyv2|TESCO",
+                        "coordinate": {
+                            "lat": 39.466206,
+                            "lon": -0.324859
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1190502,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1190600/1190502/02125290_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1283079936,
+                        "name": "VLC Malvarrosa Flats",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Carrer del Doctor Lluch 199 Piso 1",
+                            "extendedAddress": "Puerta 1",
+                            "locality": "Valencia",
+                            "postalCode": "46011",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "39 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "13 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$237",
+                                "exactCurrent": 237.22
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 39.470848,
+                            "lon": -0.327954
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 40064998,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/41000000/40070000/40065000/40064998/48820b80_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 244224,
+                        "name": "The Westin Valencia",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Amadeo De Saboya 16",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46010",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 185,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "9,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$234",
+                                "exactCurrent": 234.19
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|showFrequentlyAskedQuestionsenUS|TESCO",
+                        "coordinate": {
+                            "lat": 39.472873,
+                            "lon": -0.362014
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1497836,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1497900/1497836/5bf0689d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1507068928,
+                        "name": "Palacio Santa Clara, Autograph Collection",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Calle Pascual y Genis 22",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46002",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.4,
+                            "rating": "9,4",
+                            "total": 51,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$227",
+                                "exactCurrent": 226.57
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps",
+                        "coordinate": {
+                            "lat": 39.468374,
+                            "lon": -0.373949
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 47064654,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/48000000/47070000/47064700/47064654/b62ca1fe_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 404669,
+                        "name": "Caro Hotel",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Carrer de l'Almirall, 14",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46003",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.6,
+                            "rating": "9,6",
+                            "total": 92,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$224",
+                                "exactCurrent": 223.55
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|increaseNumberOfReviewsRequired|TESCO",
+                        "coordinate": {
+                            "lat": 39.47598,
+                            "lon": -0.37201
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 4891772,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4900000/4891800/4891772/87850efb_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 221466,
+                        "name": "Hotel Hospes Palau de la Mar",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Avenida de Navarro Reverter, 14",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46004",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 160,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "9,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$201",
+                                "exactCurrent": 201.2,
+                                "old": "$224"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.471126,
+                            "lon": -0.366487
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1085068,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1085100/1085068/2bc05376_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1205374176,
+                        "name": "Hotel Helen Berger",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Carrer de les Comèdies 22 - 24",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46003",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 45,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$201",
+                                "exactCurrent": 201.19
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW",
+                        "coordinate": {
+                            "lat": 39.472282,
+                            "lon": -0.372513
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 37636693,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/38000000/37640000/37636700/37636693/5f43bc1c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 585182,
+                        "name": "Hotel Plaza Mercado",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plaza del Mercado, 45",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46001",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 84,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$198",
+                                "exactCurrent": 198.32
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": 39.47342,
+                            "lon": -0.37765
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 13295475,
+                        "vrBadge": "Апарт-отель",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/14000000/13300000/13295500/13295475/3cfbcb0e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 606086912,
+                        "name": "Bubusuites",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Den Blanch, 5",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46003",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 18,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "9,0 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$192",
+                                "exactCurrent": 191.63
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.47514,
+                            "lon": -0.37118
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 18908966,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/19000000/18910000/18909000/18908966/8d58b963_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 315391,
+                        "name": "Parador de El Saler",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Avda. de los Pinares, 151",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46012",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7,8",
+                            "total": 19,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Хорошо"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "26 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "24 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$192",
+                                "exactCurrent": 191.63
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "Oceanviewv1|DoubleStamps|D13|NearBeachPropertyv1|TESCO",
+                        "coordinate": {
+                            "lat": 39.320813,
+                            "lon": -0.301996
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1133237,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1133300/1133237/1fdf71f5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 652371,
+                        "name": "Hotel Boutique Balandret",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Paseo Neptuno, 20",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46011",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 123,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "13 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$164",
+                                "exactCurrent": 163.93
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "Oceanviewv1|DoubleStamps|D13|OnBeachPropertyv2|TESCO",
+                        "coordinate": {
+                            "lat": 39.46393,
+                            "lon": -0.32362
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 16900183,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/17000000/16910000/16900200/16900183/e03c3b05_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 744709408,
+                        "name": "Hotel Marques House",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Abadia San Martin 10",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46002",
+                            "region": "Spain",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.6,
+                            "rating": "9,6",
+                            "total": 111,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$163",
+                                "exactCurrent": 162.96
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.47297,
+                            "lon": -0.37541
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 23240919,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/24000000/23250000/23241000/23240919/b364f801_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 881666464,
+                        "name": "NH Collection Valencia Colón",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Calle Colon 32",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46004",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 110,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "9,1 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$163",
+                                "exactCurrent": 162.87
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {
+                            "hotelBadge": {
+                                "type": "vipBasic",
+                                "label": "VIP"
+                            }
+                        },
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.468448,
+                            "lon": -0.37245
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 27520827,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/28000000/27530000/27520900/27520827/17d7d25e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 594871,
+                        "name": "The Valentia Cabillers Hotel",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Calle Cabillers 3",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46003",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 43,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,7 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$162",
+                                "exactCurrent": 162.06,
+                                "old": "$212"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|priceRangeCA|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.474789,
+                            "lon": -0.374793
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 15245400,
+                        "vrBadge": "Апарт-отель",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/16000000/15250000/15245400/15245400/85586c67_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 758292736,
+                        "name": "Huerto del Medico",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Carretera CV- 525, Algemesi",
+                            "extendedAddress": "",
+                            "locality": "Guadassuar",
+                            "postalCode": "46680",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "9,6 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "29 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$160",
+                                "exactCurrent": 159.68
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Guadassuar",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 39.2301,
+                            "lon": -0.46454
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 23665398,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/24000000/23670000/23665400/23665398/56eac0e7_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1146644160,
+                        "name": "Cosmo Hotel Boutique",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Calle de Maria Cristina, 8",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46001",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.4,
+                            "rating": "9,4",
+                            "total": 55,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$160",
+                                "exactCurrent": 159.68
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.4728,
+                            "lon": -0.377233
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 35801380,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35810000/35801400/35801380/c14decff_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 485962,
+                        "name": "Vincci Mercat Hotel",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "C/ de la Llanterna, 31",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46001",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9,2",
+                            "total": 272,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,4 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$158",
+                                "exactCurrent": 158.08
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 39.472208,
+                            "lon": -0.378964
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 9684281,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/10000000/9690000/9684300/9684281/e6841c45_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 480660,
+                        "name": "Valenciaflats Mercado Central",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Plaza Doctor Collado",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46001",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.6,
+                            "rating": "9,6",
+                            "total": 8,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "Великолепно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,4 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$149",
+                                "exactCurrent": 149.03
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.474546,
+                            "lon": -0.377776
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 9430556,
+                        "vrBadge": "Апартаменты",
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/10000000/9440000/9430600/9430556/d5ec4e1c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 616223232,
+                        "name": "One Shot Mercat 09 Hotel",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Calle Músic Peydró, 9",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46001",
+                            "region": "",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 124,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,5 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$148",
+                                "exactCurrent": 147.97
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.47218,
+                            "lon": -0.37808
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19225726,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19230000/19225800/19225726/d3052b35_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 470190,
+                        "name": "AC Hotel Colón Valencia by Marriott",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Carrer Colon No 6",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46004",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 87,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,9 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$148",
+                                "exactCurrent": 147.54
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 39.467466,
+                            "lon": -0.374362
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 8780187,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/9000000/8790000/8780200/8780187/c4981761_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 630625216,
+                        "name": "MD Design Hotel Portal del Real",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Calle Boix, 3",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46003",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 23,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "Превосходно"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "38 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "8,8 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$144",
+                                "exactCurrent": 143.71
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.47704,
+                            "lon": -0.37227
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19675788,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19680000/19675800/19675788/8b16e9d9_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 171673,
+                        "name": "SH Valencia Palace Hotel",
+                        "starRating": 5.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Avenida Paseo De La Alameda 32",
+                            "extendedAddress": "",
+                            "locality": "Valencia",
+                            "postalCode": "46023",
+                            "region": "Valencia",
+                            "countryName": "Spain",
+                            "countryCode": "es",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 375,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Потрясающе"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "Масалавес",
+                                "distance": "37 км"
+                            },
+                            {
+                                "label": "Валенсия (VLC)",
+                                "distance": "10 км"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$144",
+                                "exactCurrent": 143.71
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Valencia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 39.467369,
+                            "lon": -0.359979
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 525767,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/530000/525800/525767/d6a6505c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Звездность",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Звезды (по убыванию)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Звезды (по возрастанию)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Расстояние",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Расстояние до центра города",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Что посмотреть",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "Центр города",
+                                        "id": 1906794.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Аэропорты",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Валенсия (VLC)",
+                                        "id": 1637388.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Рейтинг гостей",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Рейтинг гостей",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Цена",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Цена (по убыванию)",
+                        "choices": [
+                            {
+                                "label": "Цена (по убыванию)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": true
+                            },
+                            {
+                                "label": "Цена (по возрастанию)",
+                                "value": "PRICE",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 1906794.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:1906794:UNKNOWN:UNKNOWN",
+                            "q-destination": "Масалавес, Валенсия, Испания",
+                            "destination-id": "1906794"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "Центр города",
+                            "value": "1906794"
+                        },
+                        {
+                            "label": "Валенсия (VLC)",
+                            "value": "1637388"
+                        }
+                    ],
+                    "distance": []
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Апарт-отели",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Виллы",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Гостевые дома",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Дома для отпуска",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Загородные дома",
+                            "value": "24"
+                        },
+                        {
+                            "label": "Квартиры ",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Мини-отели",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Отели",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Пансионы",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Стоянки для автофургонов",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Хостелы",
+                            "value": "12"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "В цену включен Wi-Fi",
+                            "value": "527"
+                        },
+                        {
+                            "label": "Для некурящих",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Завтрак включен",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Казино",
+                            "value": "2112"
+                        },
+                        {
+                            "label": "Круглосуточная стойка регистрации",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Парковка",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Пункт зарядки электромобилей",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Разрешено проживание с домашними животными",
+                            "value": "64"
+                        },
+                        {
+                            "label": "С баром",
+                            "value": "515"
+                        },
+                        {
+                            "label": "С бассейном",
+                            "value": "128"
+                        },
+                        {
+                            "label": "С бизнес-услугами",
+                            "value": "519"
+                        },
+                        {
+                            "label": "С ванной в номере",
+                            "value": "517"
+                        },
+                        {
+                            "label": "С детскими кроватками",
+                            "value": "525"
+                        },
+                        {
+                            "label": "С доступом в интернет",
+                            "value": "8"
+                        },
+                        {
+                            "label": "С зонами для курения",
+                            "value": "537"
+                        },
+                        {
+                            "label": "С конференц-залами",
+                            "value": "1"
+                        },
+                        {
+                            "label": "С кухней",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Со смежными номерами",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Со спа-салоном",
+                            "value": "539"
+                        },
+                        {
+                            "label": "Со спортзалом",
+                            "value": "2"
+                        },
+                        {
+                            "label": "С присмотром за детьми",
+                            "value": "521"
+                        },
+                        {
+                            "label": "С рестораном",
+                            "value": "256"
+                        },
+                        {
+                            "label": "С трансфером до аэропорта",
+                            "value": "513"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Безбарьерный доступ",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Безбарьерный душ",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Ванная для маломобильных гостей",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Номера для маломобильных гостей",
+                            "value": "541"
+                        },
+                        {
+                            "label": "Оборудование для слабослышащих",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Парковка, приспособленная для маломобильных гостей",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "Удобства в номерах для маломобильных гостей",
+                            "value": "1048576"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Бутик",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Для активного отдыха",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Для гольфа",
+                            "value": "26"
+                        },
+                        {
+                            "label": "Для деловых людей",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Для семейного отдыха",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Исторические",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Класса «люкс»",
+                            "value": "15"
+                        },
+                        {
+                            "label": "На термальных источниках",
+                            "value": "22"
+                        },
+                        {
+                            "label": "Обслуживание гостей ЛГБТК",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Пляжные",
+                            "value": "6"
+                        },
+                        {
+                            "label": "С казино",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Спа",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Стоимость (общая)",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com™ Rewards",
+                    "items": [
+                        {
+                            "label": "Получите штампы",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Используйте бонусные* сутки",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE_HIGHEST_FIRST&rooms=1&destRegionID=1906794&hotelIds=1180829728,1343974368,132494,229448,1283079936,244224,1507068928,404669,221466,1205374176,585182,606086912,315391,652371,744709408,881666464,594871,758292736,1146644160,485962,480660,616223232,470190,630625216,171673&adults=2&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=88723e8a-2a0b-41ca-8cec-8b42c5dd49e0&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=ru.hotels.com&userIP=2607:fb91:3f0e:8907:f44f:77ff:fe8b:821&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": " ,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;36869679,LOCAL;41967949,MULTISOURCE;22014",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "56953bc5-4906-4001-b2a5-2de51ebf7425",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar2": "Масалавес, Валенсия, Испания",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "ru.hotels.com",
+                    "s.eVar6": "1906794",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "88723e8a-2a0b-41ca-8cec-8b42c5dd49e0",
+                    "s.eVar9": "Price - high to low",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar26": "US:UT:SALTLAKECITY:770",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "365",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "346",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result without dates",
+                    "s.eVar34": "H1871:007.002,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:050.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7870:000.000,M8130:000.001,M8336:000.000,M8347:019.002,M8692:000.000,M8698:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9434:000.000,M9469:000.000,M9549:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10268:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M9215:001.001",
+                    "s.eVar13": "389273",
+                    "s.events": "event324,event320,event319",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389273",
+                    "s.prop15": "",
+                    "s.prop3": "Масалавес, Валенсия, Испания",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-east-1.unknown",
+                    "s.prop2": "Price - high to low"
+                }
+            }
+        }
+    }
+}

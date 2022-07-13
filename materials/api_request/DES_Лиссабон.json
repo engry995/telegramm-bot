@@ -1,0 +1,210 @@
+{
+    "term": "Лиссабон",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "7255879dd0794c8cbd29102970ce63bd",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "2080",
+                    "destinationId": "1063515",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.7123,
+                    "longitude": -9.13833,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "Лиссабон"
+                },
+                {
+                    "geoId": "6145189",
+                    "destinationId": "1697672",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.73940477353223,
+                    "longitude": -9.148807381283868,
+                    "searchDetail": null,
+                    "caption": "Центр <span class='highlighted'>Лиссабон</span>а, Лиссабон, Лиссабон район, Португалия",
+                    "name": "Центр Лиссабона"
+                },
+                {
+                    "geoId": "6307709",
+                    "destinationId": "10236717",
+                    "landmarkCityDestinationId": null,
+                    "type": "REGION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.833477703826446,
+                    "longitude": -9.09734443624224,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лиссабон</span>ский регион, Португалия",
+                    "name": "Лиссабонский регион"
+                },
+                {
+                    "geoId": "553248633981727341",
+                    "destinationId": "10874009",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.71575166757405,
+                    "longitude": -9.14544956264285,
+                    "searchDetail": null,
+                    "caption": "Старый город <span class='highlighted'>Лиссабон</span>а, Лиссабон, Лиссабон район, Португалия",
+                    "name": "Старый город Лиссабона"
+                },
+                {
+                    "geoId": "179499",
+                    "destinationId": "1695485",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.71183761737158,
+                    "longitude": -9.131710943643858,
+                    "searchDetail": null,
+                    "caption": "Альфама, <span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "Альфама"
+                },
+                {
+                    "geoId": "4896",
+                    "destinationId": "1066574",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.69677,
+                    "longitude": -9.420361,
+                    "searchDetail": null,
+                    "caption": "Кашкайш, <span class='highlighted'>Лиссабон</span> район, Португалия",
+                    "name": "Кашкайш"
+                },
+                {
+                    "geoId": "4694",
+                    "destinationId": "1061324",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.797928,
+                    "longitude": -9.395285,
+                    "searchDetail": null,
+                    "caption": "Синтра, <span class='highlighted'>Лиссабон</span> район, Португалия",
+                    "name": "Синтра"
+                },
+                {
+                    "geoId": "179475",
+                    "destinationId": "1695398",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.69960328763437,
+                    "longitude": -9.213524318956011,
+                    "searchDetail": null,
+                    "caption": "Рестело, <span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "Рестело"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "27233509",
+                    "destinationId": "872472288",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.726044,
+                    "longitude": -9.148177,
+                    "searchDetail": null,
+                    "caption": "EXE Liberdade, <span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "EXE Liberdade"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "6081601",
+                    "destinationId": "1658101",
+                    "landmarkCityDestinationId": "1063515",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.742867,
+                    "longitude": -9.168214,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лиссабон</span>ский зоопарк, Лиссабон, Лиссабон район, Португалия",
+                    "name": "Лиссабонский зоопарк"
+                },
+                {
+                    "geoId": "6081597",
+                    "destinationId": "1658099",
+                    "landmarkCityDestinationId": "1063515",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.7635,
+                    "longitude": -9.0937,
+                    "searchDetail": null,
+                    "caption": "Океанарий в <span class='highlighted'>Лиссабон</span>е, Лиссабон, Лиссабон район, Португалия",
+                    "name": "Океанарий в Лиссабоне"
+                },
+                {
+                    "geoId": "6147084",
+                    "destinationId": "1700849",
+                    "landmarkCityDestinationId": null,
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.70621357199548,
+                    "longitude": -9.157076249551151,
+                    "searchDetail": null,
+                    "caption": "Сантос, <span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "Сантос"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "5458252",
+                    "destinationId": "1663913",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.769457,
+                    "longitude": -9.128802,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Лиссабон</span>, Португалия (LIS–аэропорт Умберту Делгаду)",
+                    "name": "Лиссабон (LIS–аэропорт Умберту Делгаду)"
+                },
+                {
+                    "geoId": "6147223",
+                    "destinationId": "1701036",
+                    "landmarkCityDestinationId": null,
+                    "type": "TRAIN_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.714464,
+                    "longitude": -9.140989,
+                    "searchDetail": null,
+                    "caption": "Станция Росиу, <span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "Станция Росиу"
+                },
+                {
+                    "geoId": "6151840",
+                    "destinationId": "1704756",
+                    "landmarkCityDestinationId": null,
+                    "type": "METRO_STATION",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 38.71389,
+                    "longitude": -9.13905,
+                    "searchDetail": null,
+                    "caption": "Станция Росиу (Грин), <span class='highlighted'>Лиссабон</span>, Лиссабон район, Португалия",
+                    "name": "Станция Росиу (Грин)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}
